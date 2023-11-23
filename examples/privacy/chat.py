@@ -38,6 +38,7 @@ from dotenv import load_dotenv
 from examples.privacy.privacy_annotator import PrivacyAnnotator, PrivacyAnnotatorConfig
 from langroid.agent.task import Task
 from langroid.language_models.openai_gpt import OpenAIGPTConfig
+from langroid.language_models.azure_openai import AzureConfig
 from langroid.utils.configuration import set_global, Settings
 from langroid.utils.logging import setup_colored_logging
 
@@ -92,7 +93,7 @@ def chat(opts: CLIOptions) -> None:
         llm_config = litellm_ollama_config
         llm_config.chat_model = opts.model
     else:
-        llm_config = OpenAIGPTConfig()
+        llm_config = AzureConfig()
 
     config = PrivacyAnnotatorConfig(
         llm=llm_config,

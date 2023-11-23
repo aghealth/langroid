@@ -14,9 +14,9 @@ from rich import print
 
 from langroid.agent.chat_agent import ChatAgent, ChatAgentConfig
 from langroid.agent.task import Task
-from langroid.language_models.openai_gpt import OpenAIChatModel, OpenAIGPTConfig
 from langroid.utils.configuration import set_global, Settings
 from langroid.utils.logging import setup_colored_logging
+from langroid.language_models.azure_openai import AzureConfig, AzureGPT
 
 
 app = typer.Typer()
@@ -40,11 +40,14 @@ def chat() -> None:
         """
     )
 
+    # config = ChatAgentConfig(
+    #     llm=OpenAIGPTConfig(
+    #         chat_model=OpenAIChatModel.GPT4,
+    #     ),
+    #     vecdb=None,
+    # )
     config = ChatAgentConfig(
-        llm=OpenAIGPTConfig(
-            chat_model=OpenAIChatModel.GPT4,
-        ),
-        vecdb=None,
+        llm = AzureConfig()
     )
     autocorrect_agent = ChatAgent(config)
     autocorrect_task = Task(

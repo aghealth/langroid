@@ -35,6 +35,7 @@ from dotenv import load_dotenv
 from langroid.agent.chat_agent import ChatAgent, ChatAgentConfig
 from langroid.agent.task import Task
 from langroid.language_models.openai_gpt import OpenAIGPTConfig
+from langroid.language_models.azure_openai import AzureConfig
 from langroid.utils.configuration import set_global, Settings
 from langroid.utils.logging import setup_colored_logging
 
@@ -109,7 +110,7 @@ def chat(opts: CLIOptions) -> None:
         llm_config.chat_model = opts.model
 
     else:
-        llm_config = OpenAIGPTConfig()
+        llm_config = AzureConfig()
 
     default_sys_msg = "You are a helpful assistant. Be concise in your answers."
 

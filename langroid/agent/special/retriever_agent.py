@@ -7,15 +7,15 @@ See test_retriever_agent.py for example usage.
 import logging
 from abc import ABC, abstractmethod
 from typing import List, Optional, Sequence
+from langroid.language_models.azure_openai import AzureConfig
 
 from rich import print
 from rich.console import Console
 
 from langroid.agent.chat_document import ChatDocMetaData, ChatDocument
 from langroid.agent.special.doc_chat_agent import DocChatAgent, DocChatAgentConfig
-from langroid.embedding_models.models import OpenAIEmbeddingsConfig
+from langroid.embedding_models.models import SentenceTransformerEmbeddingsConfig
 from langroid.language_models.base import StreamingIfAllowed
-from langroid.language_models.openai_gpt import OpenAIChatModel, OpenAIGPTConfig
 from langroid.mytypes import DocMetaData, Document, Entity
 from langroid.parsing.parser import ParsingConfig, Splitter
 from langroid.prompts.prompts_config import PromptsConfig
@@ -47,17 +47,13 @@ class RetrieverAgentConfig(DocChatAgentConfig):
     vecdb: VectorStoreConfig = QdrantDBConfig(
         collection_name=None,
         storage_path=".qdrant/data/",
-        embedding=OpenAIEmbeddingsConfig(
-            model_type="openai",
-            model_name="text-embedding-ada-002",
-            dims=1536,
+        embedding= SentenceTransformerEmbeddingsConfig(
+        model_type="sentence-transformer",
+        model_name="BAAI/bge-large-en-v1.5",
         ),
     )
 
-    llm: OpenAIGPTConfig = OpenAIGPTConfig(
-        type="openai",
-        chat_model=OpenAIChatModel.GPT4,
-    )
+    llm: AzureConfig = AzureConfig()
     parsing: ParsingConfig = ParsingConfig(
         splitter=Splitter.TOKENS,
         chunk_size=100,

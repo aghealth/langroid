@@ -5,13 +5,13 @@ that are relevant to a query.
 """
 import logging
 from typing import Optional, no_type_check
+from langroid.language_models.azure_openai import AzureConfig
 
 from rich.console import Console
 
 from langroid.agent.chat_agent import ChatAgent, ChatAgentConfig
 from langroid.agent.chat_document import ChatDocument
 from langroid.agent.tools.segment_extract_tool import SegmentExtractTool
-from langroid.language_models.openai_gpt import OpenAIGPTConfig
 from langroid.parsing.utils import extract_numbered_segments, number_segments
 from langroid.utils.constants import NO_ANSWER
 
@@ -20,7 +20,7 @@ logger = logging.getLogger(__name__)
 
 
 class RelevanceExtractorAgentConfig(ChatAgentConfig):
-    llm: OpenAIGPTConfig = OpenAIGPTConfig()
+    llm: AzureConfig = AzureConfig()
     segment_length: int = 1  # number of sentences per segment
     query: str = ""  # query for relevance extraction
     system_message = """

@@ -7,7 +7,7 @@ from rich import print
 
 from langroid.agent.special.table_chat_agent import TableChatAgent, TableChatAgentConfig
 from langroid.agent.task import Task
-from langroid.language_models.openai_gpt import OpenAIChatModel, OpenAIGPTConfig
+from langroid.language_models.azure_openai import AzureConfig
 from langroid.utils.configuration import set_global, Settings
 from langroid.utils.logging import setup_colored_logging
 
@@ -29,9 +29,7 @@ def chat() -> None:
             data=path,
             use_tools=True,
             use_functions_api=False,
-            llm=OpenAIGPTConfig(
-                chat_model=OpenAIChatModel.GPT4,
-            ),
+            llm=AzureConfig(),
         )
     )
     task = Task(agent)

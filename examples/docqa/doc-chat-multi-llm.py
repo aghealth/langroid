@@ -39,6 +39,7 @@ from langroid.parsing.parser import ParsingConfig, PdfParsingConfig, Splitter
 from langroid.agent.chat_agent import ChatAgent, ChatAgentConfig
 from langroid.agent.task import Task
 from langroid.language_models.openai_gpt import OpenAIGPTConfig
+from langroid.language_models.azure_openai import AzureConfig
 from langroid.agent.tools.recipient_tool import RecipientTool
 from langroid.utils.configuration import set_global, Settings
 from langroid.utils.logging import setup_colored_logging
@@ -66,7 +67,7 @@ def chat(config: DocChatAgentConfig) -> None:
     writer_agent = ChatAgent(
         ChatAgentConfig(
             name="WriterAgent",
-            llm=OpenAIGPTConfig(),
+            llm=AzureConfig(),
             vecdb=None,
         )
     )

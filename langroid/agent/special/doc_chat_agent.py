@@ -30,9 +30,7 @@ from langroid.agent.special.relevance_extractor_agent import (
     RelevanceExtractorAgentConfig,
 )
 from langroid.agent.task import Task
-from langroid.embedding_models.models import OpenAIEmbeddingsConfig
 from langroid.language_models.base import StreamingIfAllowed
-from langroid.language_models.openai_gpt import OpenAIChatModel, OpenAIGPTConfig
 from langroid.mytypes import DocMetaData, Document, Entity
 from langroid.parsing.parser import Parser, ParsingConfig, PdfParsingConfig, Splitter
 from langroid.parsing.repo_loader import RepoLoader
@@ -51,6 +49,7 @@ from langroid.utils.constants import NO_ANSWER
 from langroid.utils.output.printing import show_if_debug
 from langroid.vector_store.base import VectorStoreConfig
 from langroid.vector_store.qdrantdb import QdrantDBConfig
+from langroid.language_models.azure_openai import AzureConfig
 
 logger = logging.getLogger(__name__)
 
@@ -150,23 +149,18 @@ class DocChatAgentConfig(ChatAgentConfig):
         model_name="BAAI/bge-large-en-v1.5",
     )
 
-    oai_embed_config = OpenAIEmbeddingsConfig(
-        model_type="openai",
-        model_name="text-embedding-ada-002",
-        dims=1536,
-    )
+    # oai_embed_config = OpenAIEmbeddingsConfig(
+    #     model_type="openai",
+    #     model_name="text-embedding-ada-002",
+    #     dims=1536,
+    # )
 
     vecdb: VectorStoreConfig = QdrantDBConfig(
         collection_name=None,
         storage_path=".qdrant/data/",
         embedding=hf_embed_config,
     )
-    llm: OpenAIGPTConfig = OpenAIGPTConfig(
-        type="openai",
-        chat_model=OpenAIChatModel.GPT4,
-        completion_model=OpenAIChatModel.GPT4,
-        timeout=40,
-    )
+    llm: AzureConfig = AzureConfig()
     prompts: PromptsConfig = PromptsConfig(
         max_tokens=1000,
     )

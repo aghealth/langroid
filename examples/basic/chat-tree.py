@@ -35,7 +35,7 @@ from rich.prompt import Prompt
 from langroid.agent.chat_agent import ChatAgent, ChatAgentConfig
 from langroid.agent.task import Task
 from langroid.agent.tool_message import ToolMessage
-from langroid.language_models.openai_gpt import OpenAIChatModel, OpenAIGPTConfig
+from langroid.language_models.azure_openai import AzureConfig
 from langroid.utils.globals import GlobalState
 from langroid.utils.configuration import set_global, Settings
 from langroid.utils.logging import setup_colored_logging
@@ -82,9 +82,7 @@ class AddNumTool(ToolMessage):
 
 def chat() -> None:
     config = ChatAgentConfig(
-        llm=OpenAIGPTConfig(
-            chat_model=OpenAIChatModel.GPT4,
-        ),
+        llm=AzureConfig(),
         vecdb=None,
     )
 

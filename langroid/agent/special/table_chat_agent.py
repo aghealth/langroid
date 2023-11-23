@@ -18,7 +18,8 @@ from rich.console import Console
 
 from langroid.agent.chat_agent import ChatAgent, ChatAgentConfig
 from langroid.agent.tool_message import ToolMessage
-from langroid.language_models.openai_gpt import OpenAIChatModel, OpenAIGPTConfig
+# from langroid.language_models.openai_gpt import OpenAIChatModel, OpenAIGPTConfig
+from langroid.language_models.azure_openai import AzureConfig
 from langroid.parsing.table_loader import read_tabular_data
 from langroid.prompts.prompts_config import PromptsConfig
 from langroid.vector_store.base import VectorStoreConfig
@@ -108,11 +109,7 @@ class TableChatAgentConfig(ChatAgentConfig):
     data: str | pd.DataFrame  # data file, URL, or DataFrame
     separator: None | str = None  # separator for data file
     vecdb: None | VectorStoreConfig = None
-    llm: OpenAIGPTConfig = OpenAIGPTConfig(
-        type="openai",
-        chat_model=OpenAIChatModel.GPT4,
-        completion_model=OpenAIChatModel.GPT4,
-    )
+    llm: AzureConfig = AzureConfig()
     prompts: PromptsConfig = PromptsConfig(
         max_tokens=1000,
     )

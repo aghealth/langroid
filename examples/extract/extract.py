@@ -22,7 +22,7 @@ from langroid.agent.chat_agent import ChatAgent, ChatAgentConfig
 from langroid.agent.task import Task
 from kaggle_text import kaggle_description
 from langroid.agent.tool_message import ToolMessage
-from langroid.language_models.openai_gpt import OpenAIChatModel, OpenAIGPTConfig
+from langroid.language_models.azure_openai import AzureConfig
 from langroid.utils.configuration import set_global, Settings
 from langroid.utils.logging import setup_colored_logging
 
@@ -82,10 +82,7 @@ class ExtractorConfig(ChatAgentConfig):
     max_tokens: int = 10000
     use_tools = False
     use_functions_api = True
-    llm: OpenAIGPTConfig = OpenAIGPTConfig(
-        type="openai",
-        chat_model=OpenAIChatModel.GPT4,
-    )
+    llm: AzureConfig = AzureConfig()
 
 
 def chat(config: ExtractorConfig) -> None:

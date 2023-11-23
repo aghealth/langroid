@@ -17,7 +17,7 @@ from langroid.language_models.base import (
     Role,
     StreamingIfAllowed,
 )
-from langroid.language_models.openai_gpt import OpenAIGPT
+from langroid.language_models.azure_openai import AzureGPT
 from langroid.utils.configuration import settings
 
 console = Console(quiet=settings.quiet)
@@ -85,7 +85,7 @@ class ChatAgent(Agent):
         if (
             self.llm is not None
             and (
-                not isinstance(self.llm, OpenAIGPT)
+                not isinstance(self.llm, AzureGPT)
                 or not self.llm.is_openai_chat_model()
             )
             and self.config.use_functions_api

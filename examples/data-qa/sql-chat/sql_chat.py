@@ -28,10 +28,10 @@ from langroid.agent.special.sql.sql_chat_agent import (
     SQLChatAgentConfig,
 )
 from langroid.agent.task import Task
-from langroid.language_models.openai_gpt import OpenAIChatModel, OpenAIGPTConfig
 from langroid.utils.configuration import set_global, Settings
 from langroid.utils.logging import setup_colored_logging
 import logging
+from langroid.language_models.azure_openai import AzureConfig
 
 logger = logging.getLogger(__name__)
 
@@ -169,9 +169,7 @@ def chat(opts: CLIOptions) -> None:
             use_functions_api=opts.fn_api,
             context_descriptions=context_descriptions,  # Add context descriptions to the config
             use_schema_tools=opts.schema_tools,
-            llm=OpenAIGPTConfig(
-                chat_model=OpenAIChatModel.GPT4,
-            ),
+            llm=AzureConfig(),
         )
     )
     task = Task(agent)

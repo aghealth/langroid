@@ -23,7 +23,7 @@ from langroid.parsing.parser import ParsingConfig
 from langroid.agent.chat_agent import ChatAgent, ChatAgentConfig
 from langroid.agent.task import Task
 from langroid.agent.tool_message import ToolMessage
-from langroid.language_models.openai_gpt import OpenAIGPTConfig
+from langroid.language_models.azure_openai import AzureConfig
 from langroid.utils.configuration import set_global, Settings
 from langroid.utils.logging import setup_colored_logging
 from langroid.utils.constants import NO_ANSWER
@@ -137,7 +137,7 @@ def chat(opts: CLIOptions) -> None:
 
     lease_extractor_agent = LeaseExtractorAgent(
         ChatAgentConfig(
-            llm=OpenAIGPTConfig(),
+            llm=AzureConfig(),
             use_functions_api=opts.fn_api,
             use_tools=not opts.fn_api,
             vecdb=None,
