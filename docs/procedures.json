@@ -1,0 +1,4548 @@
+[
+  {
+    "display_group_id": 37,
+    "display_group_name": "Abdominal Aortic Aneurysm Repair, Laparoscopic",
+    "display_group_synonyms": [
+      "AAA"
+    ]
+  },
+  {
+    "display_group_id": 30,
+    "display_group_name": "Aortic Valve Repair/Replacement, Open Approach"
+  },
+  {
+    "display_group_id": 31,
+    "display_group_name": "Aortic Valve Repair/Replacement, Percutaneous Approach",
+    "display_group_synonyms": [
+      "AVR",
+      "TAVR"
+    ]
+  },
+  {
+    "display_group_id": 14,
+    "display_group_name": "Appendectomy, Laparoscopic",
+    "display_group_synonyms": [
+      "Lap Appy",
+      "Lap Appe"
+    ]
+  },
+  {
+    "display_group_id": 29,
+    "display_group_name": "Cardiac Ablation, Percutaneous"
+  },
+  {
+    "display_group_id": 35,
+    "display_group_name": "Cesarean Section",
+    "display_group_synonyms": [
+      "C-section",
+      "C section",
+      "abdominal delivery",
+      "caesarean",
+      "surgical birth",
+      "surgical delivery",
+      "caesarean delivery",
+      "section",
+      "csection"
+    ]
+  },
+  {
+    "display_group_id": 36,
+    "display_group_name": "Cesarean Section With Sterilization"
+  },
+  {
+    "display_group_id": 15,
+    "display_group_name": "Cholecystectomy, Laparoscopic",
+    "display_group_synonyms": [
+      "Lap Choly",
+      "choly",
+      "gall bladder surgery",
+      "Lap Chole",
+      "chole"
+    ]
+  },
+  {
+    "display_group_id": 19,
+    "display_group_name": "Colectomy, Laparoscopic"
+  },
+  {
+    "display_group_id": 21,
+    "display_group_name": "Colectomy, Open Approach"
+  },
+  {
+    "display_group_id": 33,
+    "display_group_name": "Colonoscopy",
+    "display_group_synonyms": [
+      "coloscopy",
+      "colon",
+      "lower gi endoscopy",
+      "gastroscopy",
+      "upper GI endoscopy"
+    ]
+  },
+  {
+    "display_group_id": 38,
+    "display_group_name": "Craniotomy for Tumor, Open Approach"
+  },
+  {
+    "display_group_id": 34,
+    "display_group_name": "Esophagogastroduodenoscopy (EGD)",
+    "display_group_synonyms": [
+      "Esophagoscopy"
+    ]
+  },
+  {
+    "display_group_id": 18,
+    "display_group_name": "Gastric Bypass, Laparoscopic"
+  },
+  {
+    "display_group_id": 27,
+    "display_group_name": "Kidney transplant"
+  },
+  {
+    "display_group_id": 40,
+    "display_group_name": "Left Atrial Appendage Occlusion (LAAO)",
+    "display_group_synonyms": [
+      "LAAO"
+    ]
+  },
+  {
+    "display_group_id": 32,
+    "display_group_name": "Mitral Valve Repair/Replacement, Open Approach"
+  },
+  {
+    "display_group_id": 41,
+    "display_group_name": "One Artery PTCA with Stents"
+  },
+  {
+    "display_group_id": 28,
+    "display_group_name": "Pacemaker Insertion, Percutaneous"
+  },
+  {
+    "display_group_id": 39,
+    "display_group_name": "Placement of Ventriculoperitoneal Shunt"
+  },
+  {
+    "display_group_id": 24,
+    "display_group_name": "Right Colectomy, Laparoscopic"
+  },
+  {
+    "display_group_id": 25,
+    "display_group_name": "Right Colectomy, Open Approach"
+  },
+  {
+    "display_group_id": 11,
+    "display_group_name": "Rotator Cuff Repair",
+    "display_group_synonyms": [
+      "RCR",
+      "Cuff Repair",
+      "Rotator Repair",
+      "arthroscopic rcr",
+      "endoscopic rcr",
+      "open rcr"
+    ]
+  },
+  {
+    "display_group_id": 20,
+    "display_group_name": "Sigmoid Colectomy, Laparoscopic"
+  },
+  {
+    "display_group_id": 22,
+    "display_group_name": "Sigmoid Colectomy, Open Approach"
+  },
+  {
+    "display_group_id": 6,
+    "display_group_name": "Single-Level ACDF",
+    "display_group_synonyms": [
+      "acd",
+      "acdf"
+    ]
+  },
+  {
+    "display_group_id": 5,
+    "display_group_name": "Single-Level ALIF/LLIF"
+  },
+  {
+    "display_group_id": 9,
+    "display_group_name": "Single-Level ALIF/LLIF (with MCC)"
+  },
+  {
+    "display_group_id": 3,
+    "display_group_name": "Single-Level PLIF/TLIF",
+    "display_group_synonyms": [
+      "PLIF",
+      "TLIF",
+      "PLIF TLIF",
+      "TLIF/PLIF",
+      "TLIF PLIF",
+      "Interbody Fusion"
+    ]
+  },
+  {
+    "display_group_id": 7,
+    "display_group_name": "Single-Level PLIF/TLIF (with MCC)"
+  },
+  {
+    "display_group_id": 4,
+    "display_group_name": "Single-Level Posterior Fusion",
+    "display_group_synonyms": [
+      "Non-interbody"
+    ]
+  },
+  {
+    "display_group_id": 8,
+    "display_group_name": "Single-Level Posterior Fusion (with MCC)"
+  },
+  {
+    "display_group_id": 17,
+    "display_group_name": "Sleeve Gastrectomy, Laparoscopic"
+  },
+  {
+    "display_group_id": 23,
+    "display_group_name": "Small Bowel Resection, Open Approach"
+  },
+  {
+    "display_group_id": 16,
+    "display_group_name": "Splenectomy, Open Approach"
+  },
+  {
+    "display_group_id": 13,
+    "display_group_name": "Thyroidectomy, Open Approach"
+  },
+  {
+    "display_group_id": 2,
+    "display_group_name": "Total Hip Replacement",
+    "display_group_synonyms": [
+      "THA",
+      "THR",
+      "Total Hip Arthroplasty",
+      "Hip Arthroplasty",
+      "Hip Replacement",
+      "Total Hip",
+      "robotic tha",
+      "hip"
+    ]
+  },
+  {
+    "display_group_id": 1,
+    "display_group_name": "Total Knee Replacement",
+    "display_group_synonyms": [
+      "TKA",
+      "TKR",
+      "Total Knee Arthroplasty",
+      "Knee Arthroplasty",
+      "Knee Replacement",
+      "Total Knee",
+      "tricompartmental",
+      "Inpatient Knee Replacement",
+      "Outpatient Knee Replacement",
+      "robotic TKA",
+      "Mako TKA",
+      "knee"
+    ]
+  },
+  {
+    "display_group_id": 12,
+    "display_group_name": "Total Shoulder Replacement"
+  },
+  {
+    "display_group_id": 26,
+    "display_group_name": "Unicompartmental Knee Joint Replacement"
+  },
+  {
+    "icd_id": 2682,
+    "icd_name": "Abdominal Aortic Aneurysm Repair, Laparoscopic"
+  },
+  {
+    "icd_id": 2646,
+    "icd_name": "Abdominal Aortic Aneurysm Repair, Open Approach"
+  },
+  {
+    "icd_id": 2570,
+    "icd_name": "Abdominal Wall Hernia Repair, Laparoscopic"
+  },
+  {
+    "icd_id": 2569,
+    "icd_name": "Abdominal Wall Hernia Repair, Open Approach"
+  },
+  {
+    "icd_id": 1877,
+    "icd_name": "ACDF, Single Level: Cervical"
+  },
+  {
+    "icd_id": 1878,
+    "icd_name": "ACDF, Single Level: Cervicothoracic"
+  },
+  {
+    "icd_id": 138,
+    "icd_name": "Achillotenotomy: Lower Leg"
+  },
+  {
+    "icd_id": 2567,
+    "icd_name": "Adrenalectomy, Laparoscopic"
+  },
+  {
+    "icd_id": 2566,
+    "icd_name": "Adrenalectomy, Open Approach"
+  },
+  {
+    "icd_id": 142,
+    "icd_name": "Advancement of Tendon: Hand"
+  },
+  {
+    "icd_id": 145,
+    "icd_name": "Advancement of Tendon: Lower Arm"
+  },
+  {
+    "icd_id": 146,
+    "icd_name": "Advancement of Tendon: Lower Leg"
+  },
+  {
+    "icd_id": 147,
+    "icd_name": "Advancement of Tendon: Shoulder"
+  },
+  {
+    "icd_id": 149,
+    "icd_name": "Advancement of Tendon: Upper Arm"
+  },
+  {
+    "icd_id": 150,
+    "icd_name": "Advancement of Tendon: Upper Leg"
+  },
+  {
+    "icd_id": 1879,
+    "icd_name": "ALIF/LLIF, Multiple Levels: Lumbar"
+  },
+  {
+    "icd_id": 1880,
+    "icd_name": "ALIF/LLIF, Single Level: Lumbar"
+  },
+  {
+    "icd_id": 1881,
+    "icd_name": "ALIF/LLIF, Single Level: Lumbosacral"
+  },
+  {
+    "icd_id": 1882,
+    "icd_name": "ALIF/LLIF, Single Level: Thoracolumbar"
+  },
+  {
+    "icd_id": 151,
+    "icd_name": "Amputation: Elbow"
+  },
+  {
+    "icd_id": 152,
+    "icd_name": "Amputation: Femoral Region"
+  },
+  {
+    "icd_id": 153,
+    "icd_name": "Amputation: Finger"
+  },
+  {
+    "icd_id": 154,
+    "icd_name": "Amputation: Foot"
+  },
+  {
+    "icd_id": 155,
+    "icd_name": "Amputation: Hand"
+  },
+  {
+    "icd_id": 159,
+    "icd_name": "Amputation: Shoulder"
+  },
+  {
+    "icd_id": 160,
+    "icd_name": "Amputation: Thumb"
+  },
+  {
+    "icd_id": 162,
+    "icd_name": "Amputation: Upper Arm"
+  },
+  {
+    "icd_id": 164,
+    "icd_name": "Ankle Fusion: Ankle Joint"
+  },
+  {
+    "icd_id": 1883,
+    "icd_name": "Anterior Column Thoracic Fusion, Multiple Levels"
+  },
+  {
+    "icd_id": 1884,
+    "icd_name": "Anterior Column Thoracic Fusion, Single Level"
+  },
+  {
+    "icd_id": 2604,
+    "icd_name": "Aortic Valve Repair/Replacement, Open Approach"
+  },
+  {
+    "icd_id": 2711,
+    "icd_name": "Aortic Valve Repair/Replacement, Open Approach (Multi-case)"
+  },
+  {
+    "icd_id": 2606,
+    "icd_name": "Aortic Valve Repair/Replacement, Percutaneous Approach"
+  },
+  {
+    "icd_id": 2703,
+    "icd_name": "Aortic Valve Repair/Replacement, Percutaneous Approach (Multi-case)"
+  },
+  {
+    "icd_id": 2548,
+    "icd_name": "Appendectomy, Laparoscopic"
+  },
+  {
+    "icd_id": 2549,
+    "icd_name": "Appendectomy, Open Approach"
+  },
+  {
+    "icd_id": 165,
+    "icd_name": "Application of External Fixation Device: Acetabulum"
+  },
+  {
+    "icd_id": 167,
+    "icd_name": "Application of External Fixation Device: Femoral Shaft"
+  },
+  {
+    "icd_id": 168,
+    "icd_name": "Application of External Fixation Device: Fibula"
+  },
+  {
+    "icd_id": 171,
+    "icd_name": "Application of External Fixation Device: Humeral Shaft"
+  },
+  {
+    "icd_id": 172,
+    "icd_name": "Application of External Fixation Device: Lower Femur"
+  },
+  {
+    "icd_id": 174,
+    "icd_name": "Application of External Fixation Device: Metatarsal"
+  },
+  {
+    "icd_id": 177,
+    "icd_name": "Application of External Fixation Device: Radius"
+  },
+  {
+    "icd_id": 178,
+    "icd_name": "Application of External Fixation Device: Tarsal"
+  },
+  {
+    "icd_id": 180,
+    "icd_name": "Application of External Fixation Device: Tibia"
+  },
+  {
+    "icd_id": 183,
+    "icd_name": "Application of External Fixation Device: Upper Femur"
+  },
+  {
+    "icd_id": 185,
+    "icd_name": "Arthrodesis of Hip: Hip Joint"
+  },
+  {
+    "icd_id": 186,
+    "icd_name": "Arthrodesis of Knee: Knee Joint"
+  },
+  {
+    "icd_id": 188,
+    "icd_name": "Arthrodesis of Shoulder: Shoulder Joint"
+  },
+  {
+    "icd_id": 197,
+    "icd_name": "Arthroplasty of Metacarpophalangeal and Interphalangeal Joint Without Implant: Metacarpophalangeal Joint"
+  },
+  {
+    "icd_id": 204,
+    "icd_name": "Arthroscopy: Knee Joint"
+  },
+  {
+    "icd_id": 209,
+    "icd_name": "Arthroscopy: Shoulder Joint"
+  },
+  {
+    "icd_id": 214,
+    "icd_name": "Attachment of Pedicle or Flap Graft: Foot"
+  },
+  {
+    "icd_id": 215,
+    "icd_name": "Attachment of Pedicle or Flap Graft: Hand"
+  },
+  {
+    "icd_id": 217,
+    "icd_name": "Attachment of Pedicle or Flap Graft: Lower Leg"
+  },
+  {
+    "icd_id": 220,
+    "icd_name": "Attachment of Pedicle or Flap Graft: Upper Leg"
+  },
+  {
+    "icd_id": 221,
+    "icd_name": "Biopsy of Bone: Acetabulum"
+  },
+  {
+    "icd_id": 223,
+    "icd_name": "Biopsy of Bone: Clavicle"
+  },
+  {
+    "icd_id": 224,
+    "icd_name": "Biopsy of Bone: Femoral Shaft"
+  },
+  {
+    "icd_id": 226,
+    "icd_name": "Biopsy of Bone: Finger"
+  },
+  {
+    "icd_id": 228,
+    "icd_name": "Biopsy of Bone: Humeral Head"
+  },
+  {
+    "icd_id": 229,
+    "icd_name": "Biopsy of Bone: Humeral Shaft"
+  },
+  {
+    "icd_id": 230,
+    "icd_name": "Biopsy of Bone: Lower Femur"
+  },
+  {
+    "icd_id": 232,
+    "icd_name": "Biopsy of Bone: Metatarsal"
+  },
+  {
+    "icd_id": 233,
+    "icd_name": "Biopsy of Bone: Patella"
+  },
+  {
+    "icd_id": 234,
+    "icd_name": "Biopsy of Bone: Pelvic Region"
+  },
+  {
+    "icd_id": 235,
+    "icd_name": "Biopsy of Bone: Radius"
+  },
+  {
+    "icd_id": 236,
+    "icd_name": "Biopsy of Bone: Scapula"
+  },
+  {
+    "icd_id": 237,
+    "icd_name": "Biopsy of Bone: Sternum"
+  },
+  {
+    "icd_id": 238,
+    "icd_name": "Biopsy of Bone: Tarsal"
+  },
+  {
+    "icd_id": 239,
+    "icd_name": "Biopsy of Bone: Thumb"
+  },
+  {
+    "icd_id": 241,
+    "icd_name": "Biopsy of Bone: Toe"
+  },
+  {
+    "icd_id": 242,
+    "icd_name": "Biopsy of Bone: Ulna"
+  },
+  {
+    "icd_id": 243,
+    "icd_name": "Biopsy of Bone: Upper Femur"
+  },
+  {
+    "icd_id": 247,
+    "icd_name": "Bone Graft: Femoral Shaft"
+  },
+  {
+    "icd_id": 248,
+    "icd_name": "Bone Graft: Fibula"
+  },
+  {
+    "icd_id": 251,
+    "icd_name": "Bone Graft: Humeral Head"
+  },
+  {
+    "icd_id": 253,
+    "icd_name": "Bone Graft: Lower Femur"
+  },
+  {
+    "icd_id": 258,
+    "icd_name": "Bone Graft: Radius"
+  },
+  {
+    "icd_id": 259,
+    "icd_name": "Bone Graft: Scapula"
+  },
+  {
+    "icd_id": 263,
+    "icd_name": "Bone Graft: Tibia"
+  },
+  {
+    "icd_id": 265,
+    "icd_name": "Bone Graft: Ulna"
+  },
+  {
+    "icd_id": 266,
+    "icd_name": "Bone Graft: Upper Femur"
+  },
+  {
+    "icd_id": 2687,
+    "icd_name": "Bronchoscopy/Thoracoscopy, Diagnostic"
+  },
+  {
+    "icd_id": 2729,
+    "icd_name": "Bronchoscopy/Thoracoscopy, Diagnostic (Multi-case)"
+  },
+  {
+    "icd_id": 268,
+    "icd_name": "Bunionectomy: Metatarsal"
+  },
+  {
+    "icd_id": 270,
+    "icd_name": "Bursectomy: Ankle"
+  },
+  {
+    "icd_id": 275,
+    "icd_name": "Bursectomy: Knee"
+  },
+  {
+    "icd_id": 277,
+    "icd_name": "Bursectomy: Shoulder"
+  },
+  {
+    "icd_id": 278,
+    "icd_name": "Bursectomy: Trunk"
+  },
+  {
+    "icd_id": 280,
+    "icd_name": "Bursectomy: Wrist"
+  },
+  {
+    "icd_id": 284,
+    "icd_name": "Bursotomy: Hand"
+  },
+  {
+    "icd_id": 286,
+    "icd_name": "Bursotomy: Knee"
+  },
+  {
+    "icd_id": 2620,
+    "icd_name": "Cardiac Ablation, Open Approach"
+  },
+  {
+    "icd_id": 2621,
+    "icd_name": "Cardiac Ablation, Percutaneous"
+  },
+  {
+    "icd_id": 2710,
+    "icd_name": "Cardiac Ablation, Percutaneous (Multi-case)"
+  },
+  {
+    "icd_id": 2618,
+    "icd_name": "Cardiac Monitor Insertion, Percutaneous Approach"
+  },
+  {
+    "icd_id": 2706,
+    "icd_name": "Cardiac Monitor Insertion, Percutaneous Approach (Multi-case)"
+  },
+  {
+    "icd_id": 2622,
+    "icd_name": "Cardioversion"
+  },
+  {
+    "icd_id": 2644,
+    "icd_name": "Carotid Artery Endarterectomy"
+  },
+  {
+    "icd_id": 292,
+    "icd_name": "Carporadial Fusion: Wrist Joint"
+  },
+  {
+    "icd_id": 2497,
+    "icd_name": "Cervical Disk Arthroplasty: Cervical"
+  },
+  {
+    "icd_id": 2590,
+    "icd_name": "Cesarean Section"
+  },
+  {
+    "icd_id": 2664,
+    "icd_name": "Cesarean Section with Hysterectomy"
+  },
+  {
+    "icd_id": 2663,
+    "icd_name": "Cesarean Section with Tubal Ligation"
+  },
+  {
+    "icd_id": 2547,
+    "icd_name": "Cholecystectomy, Laparoscopic"
+  },
+  {
+    "icd_id": 2546,
+    "icd_name": "Cholecystectomy, Open Approach"
+  },
+  {
+    "icd_id": 293,
+    "icd_name": "Closed Reduction of Fracture With Internal Fixation: Acetabulum"
+  },
+  {
+    "icd_id": 296,
+    "icd_name": "Closed Reduction of Fracture With Internal Fixation: Femoral Shaft"
+  },
+  {
+    "icd_id": 297,
+    "icd_name": "Closed Reduction of Fracture With Internal Fixation: Fibula"
+  },
+  {
+    "icd_id": 298,
+    "icd_name": "Closed Reduction of Fracture With Internal Fixation: Finger"
+  },
+  {
+    "icd_id": 300,
+    "icd_name": "Closed Reduction of Fracture With Internal Fixation: Humeral Head"
+  },
+  {
+    "icd_id": 301,
+    "icd_name": "Closed Reduction of Fracture With Internal Fixation: Humeral Shaft"
+  },
+  {
+    "icd_id": 302,
+    "icd_name": "Closed Reduction of Fracture With Internal Fixation: Lower Femur"
+  },
+  {
+    "icd_id": 303,
+    "icd_name": "Closed Reduction of Fracture With Internal Fixation: Metacarpal"
+  },
+  {
+    "icd_id": 304,
+    "icd_name": "Closed Reduction of Fracture With Internal Fixation: Metatarsal"
+  },
+  {
+    "icd_id": 306,
+    "icd_name": "Closed Reduction of Fracture With Internal Fixation: Pelvic Region"
+  },
+  {
+    "icd_id": 307,
+    "icd_name": "Closed Reduction of Fracture With Internal Fixation: Radius"
+  },
+  {
+    "icd_id": 310,
+    "icd_name": "Closed Reduction of Fracture With Internal Fixation: Tarsal"
+  },
+  {
+    "icd_id": 311,
+    "icd_name": "Closed Reduction of Fracture With Internal Fixation: Thumb"
+  },
+  {
+    "icd_id": 312,
+    "icd_name": "Closed Reduction of Fracture With Internal Fixation: Tibia"
+  },
+  {
+    "icd_id": 315,
+    "icd_name": "Closed Reduction of Fracture With Internal Fixation: Upper Femur"
+  },
+  {
+    "icd_id": 2581,
+    "icd_name": "Colectomy, Laparoscopic"
+  },
+  {
+    "icd_id": 2580,
+    "icd_name": "Colectomy, Open Approach"
+  },
+  {
+    "icd_id": 2657,
+    "icd_name": "Colectomy, Robotic"
+  },
+  {
+    "icd_id": 2576,
+    "icd_name": "Colonoscopy"
+  },
+  {
+    "icd_id": 2744,
+    "icd_name": "Colostomy, Laparoscopic"
+  },
+  {
+    "icd_id": 2742,
+    "icd_name": "Colostomy, Open Approach"
+  },
+  {
+    "icd_id": 2498,
+    "icd_name": "Combined Anterior/Posterior Fusion: Cervical"
+  },
+  {
+    "icd_id": 2508,
+    "icd_name": "Combined Anterior/Posterior Fusion: Lumbar"
+  },
+  {
+    "icd_id": 2531,
+    "icd_name": "Combined Anterior/Posterior Fusion: Multiple Spine Regions"
+  },
+  {
+    "icd_id": 316,
+    "icd_name": "Control of Hemorrhage: Ankle"
+  },
+  {
+    "icd_id": 318,
+    "icd_name": "Control of Hemorrhage: Femoral Region"
+  },
+  {
+    "icd_id": 319,
+    "icd_name": "Control of Hemorrhage: Foot"
+  },
+  {
+    "icd_id": 326,
+    "icd_name": "Control of Hemorrhage: Upper Arm"
+  },
+  {
+    "icd_id": 327,
+    "icd_name": "Control of Hemorrhage: Upper Extremity"
+  },
+  {
+    "icd_id": 328,
+    "icd_name": "Control of Hemorrhage: Upper Leg"
+  },
+  {
+    "icd_id": 1890,
+    "icd_name": "Corpectomy/Acdf, Multiple Levels"
+  },
+  {
+    "icd_id": 2678,
+    "icd_name": "Craniotomy for Aneurysm, Open Approach"
+  },
+  {
+    "icd_id": 2669,
+    "icd_name": "Craniotomy for Hematoma, Open Approach"
+  },
+  {
+    "icd_id": 2670,
+    "icd_name": "Craniotomy for Hematoma, Percutaneous Approach"
+  },
+  {
+    "icd_id": 2671,
+    "icd_name": "Craniotomy for Tumor, Open Approach"
+  },
+  {
+    "icd_id": 2672,
+    "icd_name": "Craniotomy for Tumor, Percutaneous Approach"
+  },
+  {
+    "icd_id": 2691,
+    "icd_name": "Cystourethroscopy with Ureteral Stent Placement"
+  },
+  {
+    "icd_id": 2692,
+    "icd_name": "Cystourethroscopy with Urinary Diversion, Open Approach"
+  },
+  {
+    "icd_id": 2616,
+    "icd_name": "Defibrillator Insertion, Percutaneous Approach",
+    "icd_synonyms": [
+      "AICD"
+    ]
+  },
+  {
+    "icd_id": 2595,
+    "icd_name": "Diagnostic Angiogram"
+  },
+  {
+    "icd_id": 2631,
+    "icd_name": "Dilation and Curettage"
+  },
+  {
+    "icd_id": 2697,
+    "icd_name": "Direct Laryngoscopy with Possible Biopsy"
+  },
+  {
+    "icd_id": 1894,
+    "icd_name": "Discectomy: Cervical"
+  },
+  {
+    "icd_id": 1895,
+    "icd_name": "Discectomy: Cervicothoracic"
+  },
+  {
+    "icd_id": 1896,
+    "icd_name": "Discectomy: Lumbar"
+  },
+  {
+    "icd_id": 1897,
+    "icd_name": "Discectomy: Lumbosacral"
+  },
+  {
+    "icd_id": 1898,
+    "icd_name": "Discectomy: Thoracic"
+  },
+  {
+    "icd_id": 1899,
+    "icd_name": "Discectomy: Thoracolumbar"
+  },
+  {
+    "icd_id": 345,
+    "icd_name": "Division of Joint Capsule, Ligament, or Cartilage: Ankle Joint"
+  },
+  {
+    "icd_id": 348,
+    "icd_name": "Division of Joint Capsule, Ligament, or Cartilage: Elbow Joint"
+  },
+  {
+    "icd_id": 353,
+    "icd_name": "Division of Joint Capsule, Ligament, or Cartilage: Hip Joint"
+  },
+  {
+    "icd_id": 355,
+    "icd_name": "Division of Joint Capsule, Ligament, or Cartilage: Knee Joint"
+  },
+  {
+    "icd_id": 362,
+    "icd_name": "Division of Joint Capsule, Ligament, or Cartilage: Shoulder Joint"
+  },
+  {
+    "icd_id": 1906,
+    "icd_name": "Division: Neck Tissue and Fascia"
+  },
+  {
+    "icd_id": 1910,
+    "icd_name": "Drainage: Neck Muscle"
+  },
+  {
+    "icd_id": 1911,
+    "icd_name": "Drainage: Neck Tissue and Fascia"
+  },
+  {
+    "icd_id": 2588,
+    "icd_name": "Duodenal Switch, Open Approach"
+  },
+  {
+    "icd_id": 2652,
+    "icd_name": "Endarterectomy of Common Femoral Artery"
+  },
+  {
+    "icd_id": 2658,
+    "icd_name": "Endoscopic Retrograde Cholangiopancreatography (ERCP)"
+  },
+  {
+    "icd_id": 2575,
+    "icd_name": "Esophagogastroduodenoscopy (EGD)"
+  },
+  {
+    "icd_id": 370,
+    "icd_name": "Excision of Lesion of Muscle: Foot"
+  },
+  {
+    "icd_id": 371,
+    "icd_name": "Excision of Lesion of Muscle: Hand"
+  },
+  {
+    "icd_id": 372,
+    "icd_name": "Excision of Lesion of Muscle: Hip"
+  },
+  {
+    "icd_id": 373,
+    "icd_name": "Excision of Lesion of Muscle: Lower Arm"
+  },
+  {
+    "icd_id": 375,
+    "icd_name": "Excision of Lesion of Muscle: Shoulder"
+  },
+  {
+    "icd_id": 376,
+    "icd_name": "Excision of Lesion of Muscle: Trunk"
+  },
+  {
+    "icd_id": 377,
+    "icd_name": "Excision of Lesion of Muscle: Upper Arm"
+  },
+  {
+    "icd_id": 379,
+    "icd_name": "Excision of Lesion of Other Soft Tissue: Foot"
+  },
+  {
+    "icd_id": 380,
+    "icd_name": "Excision of Lesion of Other Soft Tissue: Hand"
+  },
+  {
+    "icd_id": 381,
+    "icd_name": "Excision of Lesion of Other Soft Tissue: Lower Arm"
+  },
+  {
+    "icd_id": 383,
+    "icd_name": "Excision of Lesion of Other Soft Tissue: Pelvic Region"
+  },
+  {
+    "icd_id": 384,
+    "icd_name": "Excision of Lesion of Other Soft Tissue: Upper Arm"
+  },
+  {
+    "icd_id": 386,
+    "icd_name": "Excision of Lesion of Tendon Sheath: Ankle"
+  },
+  {
+    "icd_id": 387,
+    "icd_name": "Excision of Lesion of Tendon Sheath: Foot"
+  },
+  {
+    "icd_id": 388,
+    "icd_name": "Excision of Lesion of Tendon Sheath: Hand"
+  },
+  {
+    "icd_id": 393,
+    "icd_name": "Excision of Lesion of Tendon Sheath: Shoulder"
+  },
+  {
+    "icd_id": 397,
+    "icd_name": "Excision of Semilunar Cartilage: Knee Joint"
+  },
+  {
+    "icd_id": 1914,
+    "icd_name": "Excision: Neck"
+  },
+  {
+    "icd_id": 1916,
+    "icd_name": "Excision: Neck Muscle"
+  },
+  {
+    "icd_id": 1918,
+    "icd_name": "Excision: Neck Tissue and Fascia"
+  },
+  {
+    "icd_id": 1919,
+    "icd_name": "Excision: Neck Tissue and Fascic"
+  },
+  {
+    "icd_id": 1922,
+    "icd_name": "Extirpation: Neck Muscle"
+  },
+  {
+    "icd_id": 409,
+    "icd_name": "Fasciotomy: Foot"
+  },
+  {
+    "icd_id": 410,
+    "icd_name": "Fasciotomy: Hand"
+  },
+  {
+    "icd_id": 411,
+    "icd_name": "Fasciotomy: Lower Arm"
+  },
+  {
+    "icd_id": 413,
+    "icd_name": "Fasciotomy: Lower Leg"
+  },
+  {
+    "icd_id": 416,
+    "icd_name": "Fasciotomy: Upper Arm"
+  },
+  {
+    "icd_id": 417,
+    "icd_name": "Fasciotomy: Upper Extremity"
+  },
+  {
+    "icd_id": 418,
+    "icd_name": "Fasciotomy: Upper Leg"
+  },
+  {
+    "icd_id": 2572,
+    "icd_name": "Femoral Hernia Repair, Laparoscopic"
+  },
+  {
+    "icd_id": 2571,
+    "icd_name": "Femoral Hernia Repair, Open Approach"
+  },
+  {
+    "icd_id": 2647,
+    "icd_name": "Femoral Popliteal Artery Bypass"
+  },
+  {
+    "icd_id": 2648,
+    "icd_name": "Femoral Tibial Artery Bypass"
+  },
+  {
+    "icd_id": 2662,
+    "icd_name": "Four or More Arteries CABG"
+  },
+  {
+    "icd_id": 2709,
+    "icd_name": "Four or More Arteries CABG (Multi-case)"
+  },
+  {
+    "icd_id": 2603,
+    "icd_name": "Four or More Artery PTCA with Stents"
+  },
+  {
+    "icd_id": 2758,
+    "icd_name": "Gastrectomy, Open Approach"
+  },
+  {
+    "icd_id": 2627,
+    "icd_name": "Gastric Bypass Repair, Endoscopic"
+  },
+  {
+    "icd_id": 2628,
+    "icd_name": "Gastric Bypass Repair, Laparoscopic"
+  },
+  {
+    "icd_id": 2585,
+    "icd_name": "Gastric Bypass, Laparoscopic"
+  },
+  {
+    "icd_id": 2584,
+    "icd_name": "Gastric Bypass, Open Approach"
+  },
+  {
+    "icd_id": 426,
+    "icd_name": "Graft of Muscle or Fascia: Lower Arm"
+  },
+  {
+    "icd_id": 2745,
+    "icd_name": "Hepatectomy, Laparoscopic"
+  },
+  {
+    "icd_id": 2719,
+    "icd_name": "Hepatectomy, Open Approach"
+  },
+  {
+    "icd_id": 2545,
+    "icd_name": "Hernia repair, with mesh"
+  },
+  {
+    "icd_id": 2541,
+    "icd_name": "Hip Replacement - Revision"
+  },
+  {
+    "icd_id": 2635,
+    "icd_name": "Hysterectomy with Bilateral Salpingo-Oophorectomy, Laparoscopic",
+    "icd_synonyms": [
+      "BSO"
+    ]
+  },
+  {
+    "icd_id": 2634,
+    "icd_name": "Hysterectomy with Bilateral Salpingo-Oophorectomy, Open Approach"
+  },
+  {
+    "icd_id": 2637,
+    "icd_name": "Hysterectomy, Laparoscopic"
+  },
+  {
+    "icd_id": 2636,
+    "icd_name": "Hysterectomy, Open Approach"
+  },
+  {
+    "icd_id": 2638,
+    "icd_name": "Hysterectomy, Vaginal Approach"
+  },
+  {
+    "icd_id": 2555,
+    "icd_name": "Hysteroscopy, with myosure"
+  },
+  {
+    "icd_id": 2554,
+    "icd_name": "Hysteroscopy, with uterine ablation"
+  },
+  {
+    "icd_id": 2743,
+    "icd_name": "Ileostomy, Laparoscopic"
+  },
+  {
+    "icd_id": 2623,
+    "icd_name": "Ileostomy, Open Approach"
+  },
+  {
+    "icd_id": 2654,
+    "icd_name": "Inferior Vena Cava (ICD) Filter Insertion"
+  },
+  {
+    "icd_id": 2574,
+    "icd_name": "Inguinal Hernia Repair, Laparoscopic"
+  },
+  {
+    "icd_id": 2573,
+    "icd_name": "Inguinal Hernia Repair, Open Approach"
+  },
+  {
+    "icd_id": 2735,
+    "icd_name": "Insertion of Breast Tissue Expander"
+  },
+  {
+    "icd_id": 1948,
+    "icd_name": "Insertion of Internal Fixation: Cervical"
+  },
+  {
+    "icd_id": 1952,
+    "icd_name": "Insertion of Internal Fixation: Lumbar"
+  },
+  {
+    "icd_id": 1956,
+    "icd_name": "Insertion of Internal Fixation: Sacroiliac"
+  },
+  {
+    "icd_id": 1957,
+    "icd_name": "Insertion of Internal Fixation: Sacrum"
+  },
+  {
+    "icd_id": 1958,
+    "icd_name": "Insertion of Internal Fixation: Thoracic"
+  },
+  {
+    "icd_id": 1976,
+    "icd_name": "Insertion of Neurostimulator Lead: Spinal Canal"
+  },
+  {
+    "icd_id": 1977,
+    "icd_name": "Insertion of Neurostimulator Lead: Spinal Cord"
+  },
+  {
+    "icd_id": 433,
+    "icd_name": "Insertion of Sternal Fixation Device With Rigid Plates: Sternum"
+  },
+  {
+    "icd_id": 1990,
+    "icd_name": "Inspection: Cervical Joint"
+  },
+  {
+    "icd_id": 2002,
+    "icd_name": "Inspection: Spinal Canal"
+  },
+  {
+    "icd_id": 446,
+    "icd_name": "Internal Fixation of Bone Without Fracture Reduction: Acetabulum"
+  },
+  {
+    "icd_id": 449,
+    "icd_name": "Internal Fixation of Bone Without Fracture Reduction: Femoral Shaft"
+  },
+  {
+    "icd_id": 450,
+    "icd_name": "Internal Fixation of Bone Without Fracture Reduction: Fibula"
+  },
+  {
+    "icd_id": 451,
+    "icd_name": "Internal Fixation of Bone Without Fracture Reduction: Finger"
+  },
+  {
+    "icd_id": 453,
+    "icd_name": "Internal Fixation of Bone Without Fracture Reduction: Humeral Head"
+  },
+  {
+    "icd_id": 454,
+    "icd_name": "Internal Fixation of Bone Without Fracture Reduction: Humeral Shaft"
+  },
+  {
+    "icd_id": 455,
+    "icd_name": "Internal Fixation of Bone Without Fracture Reduction: Lower Femur"
+  },
+  {
+    "icd_id": 459,
+    "icd_name": "Internal Fixation of Bone Without Fracture Reduction: Pelvic Region"
+  },
+  {
+    "icd_id": 460,
+    "icd_name": "Internal Fixation of Bone Without Fracture Reduction: Radius"
+  },
+  {
+    "icd_id": 462,
+    "icd_name": "Internal Fixation of Bone Without Fracture Reduction: Sternum"
+  },
+  {
+    "icd_id": 465,
+    "icd_name": "Internal Fixation of Bone Without Fracture Reduction: Tibia"
+  },
+  {
+    "icd_id": 466,
+    "icd_name": "Internal Fixation of Bone Without Fracture Reduction: Toe"
+  },
+  {
+    "icd_id": 468,
+    "icd_name": "Internal Fixation of Bone Without Fracture Reduction: Upper Femur"
+  },
+  {
+    "icd_id": 469,
+    "icd_name": "Interphalangeal Fusion: Finger Phalangeal Joint"
+  },
+  {
+    "icd_id": 2544,
+    "icd_name": "Kidney transplant"
+  },
+  {
+    "icd_id": 2651,
+    "icd_name": "Knee Amputation"
+  },
+  {
+    "icd_id": 2542,
+    "icd_name": "Knee Replacement - Revision"
+  },
+  {
+    "icd_id": 2499,
+    "icd_name": "Laminectomy/Discectomy: Cervical"
+  },
+  {
+    "icd_id": 2509,
+    "icd_name": "Laminectomy/Discectomy: Lumbar"
+  },
+  {
+    "icd_id": 2527,
+    "icd_name": "Laminectomy/Discectomy: Lumbosacral"
+  },
+  {
+    "icd_id": 2532,
+    "icd_name": "Laminectomy/Discectomy: Multiple Spine Regions"
+  },
+  {
+    "icd_id": 2539,
+    "icd_name": "Laminectomy/Discectomy: Thoracic"
+  },
+  {
+    "icd_id": 2740,
+    "icd_name": "Left Atrial Appendage Occlusion (LAAO), Open Approach"
+  },
+  {
+    "icd_id": 2741,
+    "icd_name": "Left Atrial Appendage Occlusion (LAAO), Percutaneous Approach"
+  },
+  {
+    "icd_id": 2747,
+    "icd_name": "Lobectomy, Robotic"
+  },
+  {
+    "icd_id": 2686,
+    "icd_name": "Lobectomy, Thoracoscopic"
+  },
+  {
+    "icd_id": 471,
+    "icd_name": "Local Excision of Lesion or Tissue of Bone: Carpal"
+  },
+  {
+    "icd_id": 472,
+    "icd_name": "Local Excision of Lesion or Tissue of Bone: Clavicle"
+  },
+  {
+    "icd_id": 475,
+    "icd_name": "Local Excision of Lesion or Tissue of Bone: Finger"
+  },
+  {
+    "icd_id": 477,
+    "icd_name": "Local Excision of Lesion or Tissue of Bone: Humeral Head"
+  },
+  {
+    "icd_id": 478,
+    "icd_name": "Local Excision of Lesion or Tissue of Bone: Humeral Shaft"
+  },
+  {
+    "icd_id": 479,
+    "icd_name": "Local Excision of Lesion or Tissue of Bone: Lower Femur"
+  },
+  {
+    "icd_id": 482,
+    "icd_name": "Local Excision of Lesion or Tissue of Bone: Patella"
+  },
+  {
+    "icd_id": 483,
+    "icd_name": "Local Excision of Lesion or Tissue of Bone: Pelvic Region"
+  },
+  {
+    "icd_id": 484,
+    "icd_name": "Local Excision of Lesion or Tissue of Bone: Radius"
+  },
+  {
+    "icd_id": 485,
+    "icd_name": "Local Excision of Lesion or Tissue of Bone: Scapula"
+  },
+  {
+    "icd_id": 486,
+    "icd_name": "Local Excision of Lesion or Tissue of Bone: Sternum"
+  },
+  {
+    "icd_id": 487,
+    "icd_name": "Local Excision of Lesion or Tissue of Bone: Tarsal"
+  },
+  {
+    "icd_id": 488,
+    "icd_name": "Local Excision of Lesion or Tissue of Bone: Thumb"
+  },
+  {
+    "icd_id": 489,
+    "icd_name": "Local Excision of Lesion or Tissue of Bone: Tibia"
+  },
+  {
+    "icd_id": 490,
+    "icd_name": "Local Excision of Lesion or Tissue of Bone: Toe"
+  },
+  {
+    "icd_id": 491,
+    "icd_name": "Local Excision of Lesion or Tissue of Bone: Ulna"
+  },
+  {
+    "icd_id": 492,
+    "icd_name": "Local Excision of Lesion or Tissue of Bone: Upper Femur"
+  },
+  {
+    "icd_id": 2649,
+    "icd_name": "Lower Artery Arteriogram"
+  },
+  {
+    "icd_id": 2751,
+    "icd_name": "Lung Resection, Robotic"
+  },
+  {
+    "icd_id": 2685,
+    "icd_name": "Lung Resection, Thoracoscopic"
+  },
+  {
+    "icd_id": 2696,
+    "icd_name": "Lung Transplant"
+  },
+  {
+    "icd_id": 493,
+    "icd_name": "Lysis of Adhesions of Muscle, Tendon, Fascia, and Bursa: Ankle"
+  },
+  {
+    "icd_id": 495,
+    "icd_name": "Lysis of Adhesions of Muscle, Tendon, Fascia, and Bursa: Foot"
+  },
+  {
+    "icd_id": 498,
+    "icd_name": "Lysis of Adhesions of Muscle, Tendon, Fascia, and Bursa: Knee"
+  },
+  {
+    "icd_id": 499,
+    "icd_name": "Lysis of Adhesions of Muscle, Tendon, Fascia, and Bursa: Lower Arm"
+  },
+  {
+    "icd_id": 501,
+    "icd_name": "Lysis of Adhesions of Muscle, Tendon, Fascia, and Bursa: Lower Leg"
+  },
+  {
+    "icd_id": 503,
+    "icd_name": "Lysis of Adhesions of Muscle, Tendon, Fascia, and Bursa: Shoulder"
+  },
+  {
+    "icd_id": 507,
+    "icd_name": "Lysis of Adhesions of Muscle, Tendon, Fascia, and Bursa: Upper Leg"
+  },
+  {
+    "icd_id": 2721,
+    "icd_name": "Mastectomy, Bilateral"
+  },
+  {
+    "icd_id": 2720,
+    "icd_name": "Mastectomy, Unilateral"
+  },
+  {
+    "icd_id": 2700,
+    "icd_name": "Maxillectomy"
+  },
+  {
+    "icd_id": 512,
+    "icd_name": "Metatarsophalangeal Fusion: Metatarsal-Phalangeal Joint"
+  },
+  {
+    "icd_id": 2607,
+    "icd_name": "Mitral Valve Repair/Replacement, Open Approach"
+  },
+  {
+    "icd_id": 2714,
+    "icd_name": "Mitral Valve Repair/Replacement, Open Approach (Multi-case)"
+  },
+  {
+    "icd_id": 2608,
+    "icd_name": "Mitral Valve Repair/Replacement, Percutaneous Approach"
+  },
+  {
+    "icd_id": 2731,
+    "icd_name": "Multiple-Level ACDF, PLIF/TLIF: Multiple Spine Regions"
+  },
+  {
+    "icd_id": 2500,
+    "icd_name": "Multiple-Level ACDF: Cervical"
+  },
+  {
+    "icd_id": 2533,
+    "icd_name": "Multiple-Level ACDF: Multiple Spine Regions"
+  },
+  {
+    "icd_id": 2560,
+    "icd_name": "Multiple-Level ALIF/LLIF: Lumbar"
+  },
+  {
+    "icd_id": 2562,
+    "icd_name": "Multiple-Level ALIF/LLIF: Multiple Spine Regions"
+  },
+  {
+    "icd_id": 2510,
+    "icd_name": "Multiple-Level PLIF/TLIF: Lumbar"
+  },
+  {
+    "icd_id": 2534,
+    "icd_name": "Multiple-Level PLIF/TLIF: Multiple Spine Regions"
+  },
+  {
+    "icd_id": 2733,
+    "icd_name": "Multiple-Level PLIF/TLIF: Thoracic"
+  },
+  {
+    "icd_id": 2561,
+    "icd_name": "Multiple-Level Posterior Fusion, ALIF/LLIF: Lumbar"
+  },
+  {
+    "icd_id": 2535,
+    "icd_name": "Multiple-Level Posterior Fusion, ALIF/LLIF: Multiple Spine Regions"
+  },
+  {
+    "icd_id": 2501,
+    "icd_name": "Multiple-Level Posterior Fusion, Laminectomy/Discectomy: Cervical"
+  },
+  {
+    "icd_id": 2511,
+    "icd_name": "Multiple-Level Posterior Fusion, Laminectomy/Discectomy: Lumbar"
+  },
+  {
+    "icd_id": 2536,
+    "icd_name": "Multiple-Level Posterior Fusion, Laminectomy/Discectomy: Multiple Spine Regions"
+  },
+  {
+    "icd_id": 2563,
+    "icd_name": "Multiple-Level Posterior Fusion, Laminectomy/Discectomy: Thoracic"
+  },
+  {
+    "icd_id": 2437,
+    "icd_name": "Multiple-Level Posterior Fusion: Cervical"
+  },
+  {
+    "icd_id": 2439,
+    "icd_name": "Multiple-Level Posterior Fusion: Lumbar"
+  },
+  {
+    "icd_id": 2440,
+    "icd_name": "Multiple-Level Posterior Fusion: Multiple Spine Regions"
+  },
+  {
+    "icd_id": 2438,
+    "icd_name": "Multiple-Level Posterior Fusion: Thoracic"
+  },
+  {
+    "icd_id": 2633,
+    "icd_name": "Myomectomy, Laparoscopic/Hysteroscopic"
+  },
+  {
+    "icd_id": 2632,
+    "icd_name": "Myomectomy, Open Approach"
+  },
+  {
+    "icd_id": 525,
+    "icd_name": "Myotomy: Hip"
+  },
+  {
+    "icd_id": 526,
+    "icd_name": "Myotomy: Lower Arm"
+  },
+  {
+    "icd_id": 527,
+    "icd_name": "Myotomy: Lower Leg"
+  },
+  {
+    "icd_id": 528,
+    "icd_name": "Myotomy: Shoulder"
+  },
+  {
+    "icd_id": 530,
+    "icd_name": "Myotomy: Upper Arm"
+  },
+  {
+    "icd_id": 2693,
+    "icd_name": "Nephrectomy, Open Approach"
+  },
+  {
+    "icd_id": 2694,
+    "icd_name": "Nephrectomy, Percutaneous Approach"
+  },
+  {
+    "icd_id": 2695,
+    "icd_name": "Nephrectomy, Robotics"
+  },
+  {
+    "icd_id": 2009,
+    "icd_name": "Non-Fusion: Cervical Cord"
+  },
+  {
+    "icd_id": 2011,
+    "icd_name": "Non-Fusion: Cervical Joint"
+  },
+  {
+    "icd_id": 2012,
+    "icd_name": "Non-Fusion: Cervical Nerve"
+  },
+  {
+    "icd_id": 2014,
+    "icd_name": "Non-Fusion: Cervical Vertebra"
+  },
+  {
+    "icd_id": 2017,
+    "icd_name": "Non-Fusion: Coccygeal Joint"
+  },
+  {
+    "icd_id": 2018,
+    "icd_name": "Non-Fusion: Coccyx"
+  },
+  {
+    "icd_id": 2019,
+    "icd_name": "Non-Fusion: Lumbar Cord"
+  },
+  {
+    "icd_id": 2021,
+    "icd_name": "Non-Fusion: Lumbar Joint"
+  },
+  {
+    "icd_id": 2022,
+    "icd_name": "Non-Fusion: Lumbar Nerve"
+  },
+  {
+    "icd_id": 2024,
+    "icd_name": "Non-Fusion: Lumbar Vertebra"
+  },
+  {
+    "icd_id": 2026,
+    "icd_name": "Non-Fusion: Lumbosacral Joint"
+  },
+  {
+    "icd_id": 2029,
+    "icd_name": "Non-Fusion: Sacral Nerve"
+  },
+  {
+    "icd_id": 2034,
+    "icd_name": "Non-Fusion: Sacrum"
+  },
+  {
+    "icd_id": 2035,
+    "icd_name": "Non-Fusion: Spinal Canal"
+  },
+  {
+    "icd_id": 2036,
+    "icd_name": "Non-Fusion: Spinal Meninges"
+  },
+  {
+    "icd_id": 2037,
+    "icd_name": "Non-Fusion: Thoracic"
+  },
+  {
+    "icd_id": 2038,
+    "icd_name": "Non-Fusion: Thoracic Cord"
+  },
+  {
+    "icd_id": 2042,
+    "icd_name": "Non-Fusion: Thoracic Nerve"
+  },
+  {
+    "icd_id": 2043,
+    "icd_name": "Non-Fusion: Thoracic Vertebra"
+  },
+  {
+    "icd_id": 2045,
+    "icd_name": "Non-Fusion: Thoracolumbar Joint"
+  },
+  {
+    "icd_id": 2629,
+    "icd_name": "Normal Delivery"
+  },
+  {
+    "icd_id": 2659,
+    "icd_name": "One Artery CABG"
+  },
+  {
+    "icd_id": 2702,
+    "icd_name": "One Artery CABG (Multi-case)"
+  },
+  {
+    "icd_id": 2597,
+    "icd_name": "One Artery PTCA with Stents"
+  },
+  {
+    "icd_id": 2705,
+    "icd_name": "One Artery PTCA with Stents (Multi-case)"
+  },
+  {
+    "icd_id": 2596,
+    "icd_name": "One Artery PTCA without Stents"
+  },
+  {
+    "icd_id": 2715,
+    "icd_name": "One Artery PTCA without Stents (Multi-case)"
+  },
+  {
+    "icd_id": 535,
+    "icd_name": "Open Biopsy of Soft Tissue: Hip"
+  },
+  {
+    "icd_id": 540,
+    "icd_name": "Open Biopsy of Soft Tissue: Shoulder"
+  },
+  {
+    "icd_id": 542,
+    "icd_name": "Open Biopsy of Soft Tissue: Upper Arm"
+  },
+  {
+    "icd_id": 546,
+    "icd_name": "Open Reduction of Dislocation: Ankle Joint"
+  },
+  {
+    "icd_id": 549,
+    "icd_name": "Open Reduction of Dislocation: Finger Phalangeal Joint"
+  },
+  {
+    "icd_id": 550,
+    "icd_name": "Open Reduction of Dislocation: Hip Joint"
+  },
+  {
+    "icd_id": 554,
+    "icd_name": "Open Reduction of Dislocation: Metatarsal-Phalangeal Joint"
+  },
+  {
+    "icd_id": 555,
+    "icd_name": "Open Reduction of Dislocation: Metatarsal-Tarsal Joint"
+  },
+  {
+    "icd_id": 556,
+    "icd_name": "Open Reduction of Dislocation: Shoulder Joint"
+  },
+  {
+    "icd_id": 561,
+    "icd_name": "Open Reduction of Fracture With Internal Fixation: Acetabulum"
+  },
+  {
+    "icd_id": 562,
+    "icd_name": "Open Reduction of Fracture With Internal Fixation: Carpal"
+  },
+  {
+    "icd_id": 563,
+    "icd_name": "Open Reduction of Fracture With Internal Fixation: Clavicle"
+  },
+  {
+    "icd_id": 564,
+    "icd_name": "Open Reduction of Fracture With Internal Fixation: Femoral Shaft"
+  },
+  {
+    "icd_id": 565,
+    "icd_name": "Open Reduction of Fracture With Internal Fixation: Fibula"
+  },
+  {
+    "icd_id": 566,
+    "icd_name": "Open Reduction of Fracture With Internal Fixation: Finger"
+  },
+  {
+    "icd_id": 568,
+    "icd_name": "Open Reduction of Fracture With Internal Fixation: Humeral Head"
+  },
+  {
+    "icd_id": 569,
+    "icd_name": "Open Reduction of Fracture With Internal Fixation: Humeral Shaft"
+  },
+  {
+    "icd_id": 570,
+    "icd_name": "Open Reduction of Fracture With Internal Fixation: Lower Femur"
+  },
+  {
+    "icd_id": 571,
+    "icd_name": "Open Reduction of Fracture With Internal Fixation: Metacarpal"
+  },
+  {
+    "icd_id": 572,
+    "icd_name": "Open Reduction of Fracture With Internal Fixation: Metatarsal"
+  },
+  {
+    "icd_id": 573,
+    "icd_name": "Open Reduction of Fracture With Internal Fixation: Patella"
+  },
+  {
+    "icd_id": 574,
+    "icd_name": "Open Reduction of Fracture With Internal Fixation: Pelvic Region"
+  },
+  {
+    "icd_id": 575,
+    "icd_name": "Open Reduction of Fracture With Internal Fixation: Radius"
+  },
+  {
+    "icd_id": 576,
+    "icd_name": "Open Reduction of Fracture With Internal Fixation: Scapula"
+  },
+  {
+    "icd_id": 578,
+    "icd_name": "Open Reduction of Fracture With Internal Fixation: Tarsal"
+  },
+  {
+    "icd_id": 579,
+    "icd_name": "Open Reduction of Fracture With Internal Fixation: Thumb"
+  },
+  {
+    "icd_id": 580,
+    "icd_name": "Open Reduction of Fracture With Internal Fixation: Tibia"
+  },
+  {
+    "icd_id": 581,
+    "icd_name": "Open Reduction of Fracture With Internal Fixation: Toe"
+  },
+  {
+    "icd_id": 582,
+    "icd_name": "Open Reduction of Fracture With Internal Fixation: Ulna"
+  },
+  {
+    "icd_id": 583,
+    "icd_name": "Open Reduction of Fracture With Internal Fixation: Upper Femur"
+  },
+  {
+    "icd_id": 589,
+    "icd_name": "Open Reduction of Fracture Without Internal Fixation: Finger"
+  },
+  {
+    "icd_id": 592,
+    "icd_name": "Open Reduction of Fracture Without Internal Fixation: Humeral Shaft"
+  },
+  {
+    "icd_id": 593,
+    "icd_name": "Open Reduction of Fracture Without Internal Fixation: Lower Femur"
+  },
+  {
+    "icd_id": 601,
+    "icd_name": "Open Reduction of Fracture Without Internal Fixation: Tarsal"
+  },
+  {
+    "icd_id": 603,
+    "icd_name": "Open Reduction of Fracture Without Internal Fixation: Tibia"
+  },
+  {
+    "icd_id": 606,
+    "icd_name": "Open Reduction of Fracture Without Internal Fixation: Upper Femur"
+  },
+  {
+    "icd_id": 607,
+    "icd_name": "Other Artery Procedures: Brachial Artery"
+  },
+  {
+    "icd_id": 2046,
+    "icd_name": "Other Artery Procedures: Common Iliac Artery"
+  },
+  {
+    "icd_id": 2047,
+    "icd_name": "Other Artery Procedures: External Iliac Artery"
+  },
+  {
+    "icd_id": 2048,
+    "icd_name": "Other Artery Procedures: Internal Iliac Artery"
+  },
+  {
+    "icd_id": 609,
+    "icd_name": "Other Artery Procedures: Subclavian Artery"
+  },
+  {
+    "icd_id": 612,
+    "icd_name": "Other Arthrotomy: Ankle Joint"
+  },
+  {
+    "icd_id": 613,
+    "icd_name": "Other Arthrotomy: Carpal Joint"
+  },
+  {
+    "icd_id": 614,
+    "icd_name": "Other Arthrotomy: Elbow Joint"
+  },
+  {
+    "icd_id": 615,
+    "icd_name": "Other Arthrotomy: Finger Phalangeal Joint"
+  },
+  {
+    "icd_id": 616,
+    "icd_name": "Other Arthrotomy: Hip Joint"
+  },
+  {
+    "icd_id": 617,
+    "icd_name": "Other Arthrotomy: Knee Joint"
+  },
+  {
+    "icd_id": 619,
+    "icd_name": "Other Arthrotomy: Metacarpophalangeal Joint"
+  },
+  {
+    "icd_id": 622,
+    "icd_name": "Other Arthrotomy: Shoulder Joint"
+  },
+  {
+    "icd_id": 626,
+    "icd_name": "Other Arthrotomy: Wrist Joint"
+  },
+  {
+    "icd_id": 634,
+    "icd_name": "Other Diagnostic Procedures on Muscle, Tendon, Fascia, and Bursa: Lower Leg"
+  },
+  {
+    "icd_id": 636,
+    "icd_name": "Other Diagnostic Procedures on Muscle, Tendon, Fascia, and Bursa: Trunk"
+  },
+  {
+    "icd_id": 653,
+    "icd_name": "Other Division of Bone: Upper Femur"
+  },
+  {
+    "icd_id": 658,
+    "icd_name": "Other Division of Soft Tissue: Lower Leg"
+  },
+  {
+    "icd_id": 659,
+    "icd_name": "Other Division of Soft Tissue: Shoulder"
+  },
+  {
+    "icd_id": 661,
+    "icd_name": "Other Division of Soft Tissue: Upper Arm"
+  },
+  {
+    "icd_id": 686,
+    "icd_name": "Other Excision: Upper Leg"
+  },
+  {
+    "icd_id": 692,
+    "icd_name": "Other Graft: Thumb"
+  },
+  {
+    "icd_id": 712,
+    "icd_name": "Other Incision of Bone Without Division: Thumb"
+  },
+  {
+    "icd_id": 723,
+    "icd_name": "Other Incision of Soft Tissue: Foot"
+  },
+  {
+    "icd_id": 724,
+    "icd_name": "Other Incision of Soft Tissue: Hand"
+  },
+  {
+    "icd_id": 725,
+    "icd_name": "Other Incision of Soft Tissue: Lower Arm"
+  },
+  {
+    "icd_id": 727,
+    "icd_name": "Other Incision of Soft Tissue: Pelvic Region"
+  },
+  {
+    "icd_id": 728,
+    "icd_name": "Other Incision of Soft Tissue: Upper Arm"
+  },
+  {
+    "icd_id": 729,
+    "icd_name": "Other Incision of Soft Tissue: Upper Leg"
+  },
+  {
+    "icd_id": 751,
+    "icd_name": "Other Muscle Transposition: Lower Leg"
+  },
+  {
+    "icd_id": 764,
+    "icd_name": "Other Myectomy: Upper Leg"
+  },
+  {
+    "icd_id": 765,
+    "icd_name": "Other Nerve Procedures: Brachial Plexus"
+  },
+  {
+    "icd_id": 766,
+    "icd_name": "Other Nerve Procedures: Femoral Nerve"
+  },
+  {
+    "icd_id": 767,
+    "icd_name": "Other Nerve Procedures: Radial Nerve"
+  },
+  {
+    "icd_id": 768,
+    "icd_name": "Other Nerve Procedures: Tibial Nerve"
+  },
+  {
+    "icd_id": 769,
+    "icd_name": "Other Nerve Procedures: Ulnar Nerve"
+  },
+  {
+    "icd_id": 783,
+    "icd_name": "Other Partial Ostectomy: Humeral Head"
+  },
+  {
+    "icd_id": 784,
+    "icd_name": "Other Partial Ostectomy: Humeral Shaft"
+  },
+  {
+    "icd_id": 785,
+    "icd_name": "Other Partial Ostectomy: Lower Femur"
+  },
+  {
+    "icd_id": 786,
+    "icd_name": "Other Partial Ostectomy: Upper Femur"
+  },
+  {
+    "icd_id": 793,
+    "icd_name": "Other Repair of Joint: Elbow Joint"
+  },
+  {
+    "icd_id": 802,
+    "icd_name": "Other Repair of Joint: Knee Joint"
+  },
+  {
+    "icd_id": 805,
+    "icd_name": "Other Repair of Joint: Knee Joint, Tibial Surface"
+  },
+  {
+    "icd_id": 810,
+    "icd_name": "Other Repair of Joint: Shoulder Joint"
+  },
+  {
+    "icd_id": 818,
+    "icd_name": "Other Repair or Plastic Operations on Bone: Acetabulum"
+  },
+  {
+    "icd_id": 821,
+    "icd_name": "Other Repair or Plastic Operations on Bone: Femoral Shaft"
+  },
+  {
+    "icd_id": 825,
+    "icd_name": "Other Repair or Plastic Operations on Bone: Humeral Head"
+  },
+  {
+    "icd_id": 826,
+    "icd_name": "Other Repair or Plastic Operations on Bone: Humeral Shaft"
+  },
+  {
+    "icd_id": 827,
+    "icd_name": "Other Repair or Plastic Operations on Bone: Lower Femur"
+  },
+  {
+    "icd_id": 830,
+    "icd_name": "Other Repair or Plastic Operations on Bone: Patella"
+  },
+  {
+    "icd_id": 832,
+    "icd_name": "Other Repair or Plastic Operations on Bone: Radius"
+  },
+  {
+    "icd_id": 834,
+    "icd_name": "Other Repair or Plastic Operations on Bone: Sternum"
+  },
+  {
+    "icd_id": 837,
+    "icd_name": "Other Repair or Plastic Operations on Bone: Tibia"
+  },
+  {
+    "icd_id": 840,
+    "icd_name": "Other Repair or Plastic Operations on Bone: Upper Femur"
+  },
+  {
+    "icd_id": 847,
+    "icd_name": "Other Revision: Elbow Joint"
+  },
+  {
+    "icd_id": 856,
+    "icd_name": "Other Revision: Knee Joint"
+  },
+  {
+    "icd_id": 874,
+    "icd_name": "Other Revision: Tibia"
+  },
+  {
+    "icd_id": 2071,
+    "icd_name": "Other Spinal Fusion, Multiple Levels: Cervical"
+  },
+  {
+    "icd_id": 2072,
+    "icd_name": "Other Spinal Fusion, Multiple Levels: Lumbar"
+  },
+  {
+    "icd_id": 2074,
+    "icd_name": "Other Spinal Fusion, Single Level: Cervical"
+  },
+  {
+    "icd_id": 2075,
+    "icd_name": "Other Spinal Fusion, Single Level: Cervicothoracic"
+  },
+  {
+    "icd_id": 2076,
+    "icd_name": "Other Spinal Fusion, Single Level: Lumbar"
+  },
+  {
+    "icd_id": 2077,
+    "icd_name": "Other Spinal Fusion, Single Level: Lumbosacral"
+  },
+  {
+    "icd_id": 888,
+    "icd_name": "Other Tenonectomy: Lower Arm"
+  },
+  {
+    "icd_id": 889,
+    "icd_name": "Other Tenonectomy: Lower Leg"
+  },
+  {
+    "icd_id": 893,
+    "icd_name": "Other Tenonectomy: Upper Leg"
+  },
+  {
+    "icd_id": 894,
+    "icd_name": "Other Tenotomy: Ankle"
+  },
+  {
+    "icd_id": 895,
+    "icd_name": "Other Tenotomy: Foot"
+  },
+  {
+    "icd_id": 896,
+    "icd_name": "Other Tenotomy: Hand"
+  },
+  {
+    "icd_id": 898,
+    "icd_name": "Other Tenotomy: Shoulder"
+  },
+  {
+    "icd_id": 900,
+    "icd_name": "Other Tenotomy: Upper Arm"
+  },
+  {
+    "icd_id": 902,
+    "icd_name": "Other Vein Procedures: Brachial Vein"
+  },
+  {
+    "icd_id": 2081,
+    "icd_name": "Other Vertebral ICD9"
+  },
+  {
+    "icd_id": 2503,
+    "icd_name": "Other: Cervical"
+  },
+  {
+    "icd_id": 2507,
+    "icd_name": "Other: Cervicothoracic"
+  },
+  {
+    "icd_id": 2513,
+    "icd_name": "Other: Lumbar"
+  },
+  {
+    "icd_id": 2523,
+    "icd_name": "Other: Lumbosacral"
+  },
+  {
+    "icd_id": 2537,
+    "icd_name": "Other: Multiple Spine Regions"
+  },
+  {
+    "icd_id": 2526,
+    "icd_name": "Other: Thoracic"
+  },
+  {
+    "icd_id": 2540,
+    "icd_name": "Other: Thoracolumbar"
+  },
+  {
+    "icd_id": 2642,
+    "icd_name": "Ovarian Cystectomy, Laparoscopic"
+  },
+  {
+    "icd_id": 2641,
+    "icd_name": "Ovarian Cystectomy, Open Approach"
+  },
+  {
+    "icd_id": 2613,
+    "icd_name": "Pacemaker Insertion, Open Approach"
+  },
+  {
+    "icd_id": 2614,
+    "icd_name": "Pacemaker Insertion, Percutaneous Approach"
+  },
+  {
+    "icd_id": 2704,
+    "icd_name": "Pacemaker Insertion, Percutaneous Approach (Multi-case)"
+  },
+  {
+    "icd_id": 2717,
+    "icd_name": "Pancreatectomy, Laparoscopic"
+  },
+  {
+    "icd_id": 2716,
+    "icd_name": "Pancreatectomy, Open Approach"
+  },
+  {
+    "icd_id": 2667,
+    "icd_name": "Para-esophageal Repair, Laparoscopic"
+  },
+  {
+    "icd_id": 2666,
+    "icd_name": "Para-esophageal Repair, Open Approach"
+  },
+  {
+    "icd_id": 2699,
+    "icd_name": "Parotidectomy"
+  },
+  {
+    "icd_id": 903,
+    "icd_name": "Partial Hip Replacement: Hip Joint, Acetabular Surface"
+  },
+  {
+    "icd_id": 904,
+    "icd_name": "Partial Hip Replacement: Hip Joint, Femoral Surface"
+  },
+  {
+    "icd_id": 1301,
+    "icd_name": "Partial Knee Replacement: Knee Joint, Femoral Surface"
+  },
+  {
+    "icd_id": 1302,
+    "icd_name": "Partial Knee Replacement: Knee Joint, Tibial Surface"
+  },
+  {
+    "icd_id": 905,
+    "icd_name": "Partial Resurfacing of Hip: Hip Joint, Acetabular Surface"
+  },
+  {
+    "icd_id": 906,
+    "icd_name": "Partial Resurfacing of Hip: Hip Joint, Femoral Surface"
+  },
+  {
+    "icd_id": 908,
+    "icd_name": "Partial Shoulder Replacement: Shoulder Joint"
+  },
+  {
+    "icd_id": 2619,
+    "icd_name": "Pericardiocentesis"
+  },
+  {
+    "icd_id": 2675,
+    "icd_name": "Placement of Ventriculoperitoneal Shunt"
+  },
+  {
+    "icd_id": 2082,
+    "icd_name": "PLIF/TLIF, Multiple Levels: Lumbar"
+  },
+  {
+    "icd_id": 2084,
+    "icd_name": "PLIF/TLIF, Single Level: Lumbosacral"
+  },
+  {
+    "icd_id": 2086,
+    "icd_name": "Posterior Fusion, Single Level: Occipital-Cervical"
+  },
+  {
+    "icd_id": 2756,
+    "icd_name": "Proctectomy, Open Approach"
+  },
+  {
+    "icd_id": 2688,
+    "icd_name": "Prostatectomy, Open Approach"
+  },
+  {
+    "icd_id": 2689,
+    "icd_name": "Prostatectomy, Percutaneous Approach"
+  },
+  {
+    "icd_id": 2690,
+    "icd_name": "Prostatectomy, Robotic"
+  },
+  {
+    "icd_id": 2087,
+    "icd_name": "PSF, Multiple Levels: Cervical"
+  },
+  {
+    "icd_id": 2088,
+    "icd_name": "PSF, Multiple Levels: Lumbar"
+  },
+  {
+    "icd_id": 2089,
+    "icd_name": "PSF, Multiple Levels: Thoracic"
+  },
+  {
+    "icd_id": 2090,
+    "icd_name": "PSF, Single Level: Cervical"
+  },
+  {
+    "icd_id": 2091,
+    "icd_name": "PSF, Single Level: Cervicothoracic"
+  },
+  {
+    "icd_id": 2092,
+    "icd_name": "PSF, Single Level: Lumbar"
+  },
+  {
+    "icd_id": 2093,
+    "icd_name": "PSF, Single Level: Lumbosacral"
+  },
+  {
+    "icd_id": 2094,
+    "icd_name": "PSF, Single Level: Thoracic"
+  },
+  {
+    "icd_id": 2095,
+    "icd_name": "PSF, Single Level: Thoracolumbar"
+  },
+  {
+    "icd_id": 2611,
+    "icd_name": "Pulmonary Valve Repair/Replacement, Open Approach"
+  },
+  {
+    "icd_id": 912,
+    "icd_name": "Quadricepsplasty: Upper Leg"
+  },
+  {
+    "icd_id": 918,
+    "icd_name": "Reattachment of Muscle: Shoulder"
+  },
+  {
+    "icd_id": 926,
+    "icd_name": "Reattachment of Tendon: Knee"
+  },
+  {
+    "icd_id": 929,
+    "icd_name": "Reattachment of Tendon: Shoulder"
+  },
+  {
+    "icd_id": 932,
+    "icd_name": "Reattachment of Tendon: Upper Leg"
+  },
+  {
+    "icd_id": 936,
+    "icd_name": "Reattachment: Finger"
+  },
+  {
+    "icd_id": 944,
+    "icd_name": "Reattachment: Thumb"
+  },
+  {
+    "icd_id": 946,
+    "icd_name": "Reattachment: Upper Arm"
+  },
+  {
+    "icd_id": 949,
+    "icd_name": "Removal of (Cement) Spacer: Hip Joint"
+  },
+  {
+    "icd_id": 950,
+    "icd_name": "Removal of (Cement) Spacer: Knee Joint"
+  },
+  {
+    "icd_id": 2736,
+    "icd_name": "Removal of Breast Tissue Expander"
+  },
+  {
+    "icd_id": 2136,
+    "icd_name": "Removal of Drainage Device: Spinal Canal"
+  },
+  {
+    "icd_id": 1014,
+    "icd_name": "Removal of External Fixation Device: Hip Joint"
+  },
+  {
+    "icd_id": 2153,
+    "icd_name": "Removal of Infusion Device: Spinal Canal"
+  },
+  {
+    "icd_id": 2160,
+    "icd_name": "Removal of Interbody Fusion Device: Lumbar"
+  },
+  {
+    "icd_id": 2161,
+    "icd_name": "Removal of Interbody Fusion Device: Lumbosacral"
+  },
+  {
+    "icd_id": 1053,
+    "icd_name": "Removal of Internal Fixation Device: Acetabulum"
+  },
+  {
+    "icd_id": 1055,
+    "icd_name": "Removal of Internal Fixation Device: Ankle Joint"
+  },
+  {
+    "icd_id": 2165,
+    "icd_name": "Removal of Internal Fixation Device: Cervical Joint"
+  },
+  {
+    "icd_id": 2166,
+    "icd_name": "Removal of Internal Fixation Device: Cervical Vertebra"
+  },
+  {
+    "icd_id": 1058,
+    "icd_name": "Removal of Internal Fixation Device: Clavicle"
+  },
+  {
+    "icd_id": 1059,
+    "icd_name": "Removal of Internal Fixation Device: Elbow Joint"
+  },
+  {
+    "icd_id": 1060,
+    "icd_name": "Removal of Internal Fixation Device: Femoral Shaft"
+  },
+  {
+    "icd_id": 1061,
+    "icd_name": "Removal of Internal Fixation Device: Fibula"
+  },
+  {
+    "icd_id": 1062,
+    "icd_name": "Removal of Internal Fixation Device: Finger"
+  },
+  {
+    "icd_id": 1065,
+    "icd_name": "Removal of Internal Fixation Device: Hip Joint"
+  },
+  {
+    "icd_id": 1067,
+    "icd_name": "Removal of Internal Fixation Device: Humeral Shaft"
+  },
+  {
+    "icd_id": 1068,
+    "icd_name": "Removal of Internal Fixation Device: Knee Joint"
+  },
+  {
+    "icd_id": 1069,
+    "icd_name": "Removal of Internal Fixation Device: Lower Femur"
+  },
+  {
+    "icd_id": 2170,
+    "icd_name": "Removal of Internal Fixation Device: Lumbar Joint"
+  },
+  {
+    "icd_id": 2171,
+    "icd_name": "Removal of Internal Fixation Device: Lumbar Vertebra"
+  },
+  {
+    "icd_id": 2172,
+    "icd_name": "Removal of Internal Fixation Device: Lumbosacral Joint"
+  },
+  {
+    "icd_id": 1072,
+    "icd_name": "Removal of Internal Fixation Device: Metacarpophalangeal Joint"
+  },
+  {
+    "icd_id": 1073,
+    "icd_name": "Removal of Internal Fixation Device: Metatarsal"
+  },
+  {
+    "icd_id": 1074,
+    "icd_name": "Removal of Internal Fixation Device: Metatarsal-Phalangeal Joint"
+  },
+  {
+    "icd_id": 1077,
+    "icd_name": "Removal of Internal Fixation Device: Pelvic Region"
+  },
+  {
+    "icd_id": 1078,
+    "icd_name": "Removal of Internal Fixation Device: Radius"
+  },
+  {
+    "icd_id": 2176,
+    "icd_name": "Removal of Internal Fixation Device: Sacrum"
+  },
+  {
+    "icd_id": 1079,
+    "icd_name": "Removal of Internal Fixation Device: Scapula"
+  },
+  {
+    "icd_id": 1080,
+    "icd_name": "Removal of Internal Fixation Device: Shoulder Joint"
+  },
+  {
+    "icd_id": 1083,
+    "icd_name": "Removal of Internal Fixation Device: Tarsal"
+  },
+  {
+    "icd_id": 1084,
+    "icd_name": "Removal of Internal Fixation Device: Tarsal Joint"
+  },
+  {
+    "icd_id": 2177,
+    "icd_name": "Removal of Internal Fixation Device: Thoracic Joint"
+  },
+  {
+    "icd_id": 2178,
+    "icd_name": "Removal of Internal Fixation Device: Thoracic Vertebra"
+  },
+  {
+    "icd_id": 2179,
+    "icd_name": "Removal of Internal Fixation Device: Thoracolumbar Joint"
+  },
+  {
+    "icd_id": 1086,
+    "icd_name": "Removal of Internal Fixation Device: Tibia"
+  },
+  {
+    "icd_id": 1089,
+    "icd_name": "Removal of Internal Fixation Device: Ulna"
+  },
+  {
+    "icd_id": 1090,
+    "icd_name": "Removal of Internal Fixation Device: Upper Femur"
+  },
+  {
+    "icd_id": 1091,
+    "icd_name": "Removal of Internal Fixation Device: Wrist Joint"
+  },
+  {
+    "icd_id": 1092,
+    "icd_name": "Removal of Liner: Hip Joint"
+  },
+  {
+    "icd_id": 1093,
+    "icd_name": "Removal of Liner: Knee Joint"
+  },
+  {
+    "icd_id": 2182,
+    "icd_name": "Removal of Neurostimulator Lead: Cranial Nerve"
+  },
+  {
+    "icd_id": 2184,
+    "icd_name": "Removal of Neurostimulator Lead: Peripheral Nerve"
+  },
+  {
+    "icd_id": 2185,
+    "icd_name": "Removal of Neurostimulator Lead: Spinal Canal"
+  },
+  {
+    "icd_id": 2186,
+    "icd_name": "Removal of Neurostimulator Lead: Spinal Cord"
+  },
+  {
+    "icd_id": 1096,
+    "icd_name": "Removal of Nonautologous Tissue Substitute: Ankle Joint"
+  },
+  {
+    "icd_id": 2208,
+    "icd_name": "Removal of Spinal Thecal Shunt : Spinal Canal"
+  },
+  {
+    "icd_id": 2210,
+    "icd_name": "Removal of Synthetic Substitute: Cervical Joint"
+  },
+  {
+    "icd_id": 2211,
+    "icd_name": "Removal of Synthetic Substitute: Cervical Vertebra"
+  },
+  {
+    "icd_id": 1140,
+    "icd_name": "Removal of Synthetic Substitute: Elbow Joint"
+  },
+  {
+    "icd_id": 1146,
+    "icd_name": "Removal of Synthetic Substitute: Hip Joint"
+  },
+  {
+    "icd_id": 1148,
+    "icd_name": "Removal of Synthetic Substitute: Hip Joint, Femoral Surface"
+  },
+  {
+    "icd_id": 1151,
+    "icd_name": "Removal of Synthetic Substitute: Knee Joint"
+  },
+  {
+    "icd_id": 2713,
+    "icd_name": "Removal of Synthetic Substitute: Knee Joint (Multi-case)"
+  },
+  {
+    "icd_id": 1153,
+    "icd_name": "Removal of Synthetic Substitute: Knee Joint, Patellar Surface"
+  },
+  {
+    "icd_id": 1154,
+    "icd_name": "Removal of Synthetic Substitute: Knee Joint, Tibial Surface"
+  },
+  {
+    "icd_id": 2217,
+    "icd_name": "Removal of Synthetic Substitute: Lumbar Joint"
+  },
+  {
+    "icd_id": 2220,
+    "icd_name": "Removal of Synthetic Substitute: Lumbosacral Joint"
+  },
+  {
+    "icd_id": 1166,
+    "icd_name": "Removal of Synthetic Substitute: Shoulder Joint"
+  },
+  {
+    "icd_id": 2231,
+    "icd_name": "Repair: Head and Neck Tendon"
+  },
+  {
+    "icd_id": 2234,
+    "icd_name": "Replacement: Cervical Disc"
+  },
+  {
+    "icd_id": 2247,
+    "icd_name": "Replacement: Neck Skin"
+  },
+  {
+    "icd_id": 2564,
+    "icd_name": "Resection of Head/Neck Lymphatic, Open Approach"
+  },
+  {
+    "icd_id": 2673,
+    "icd_name": "Resection of Pituitary Adenoma, Open Approach"
+  },
+  {
+    "icd_id": 2674,
+    "icd_name": "Resection of Pituitary Adenoma, Percutaneous Approach"
+  },
+  {
+    "icd_id": 1178,
+    "icd_name": "Reverse Total Shoulder Replacement: Shoulder Joint"
+  },
+  {
+    "icd_id": 2314,
+    "icd_name": "Revision Internal Fixation: Lumbar Vertebra"
+  },
+  {
+    "icd_id": 2645,
+    "icd_name": "Revision of Arteriovenous Fistula"
+  },
+  {
+    "icd_id": 2353,
+    "icd_name": "Revision of Synthetic: Spinal Canal"
+  },
+  {
+    "icd_id": 2592,
+    "icd_name": "Right Colectomy, Laparoscopic"
+  },
+  {
+    "icd_id": 2591,
+    "icd_name": "Right Colectomy, Open Approach"
+  },
+  {
+    "icd_id": 1200,
+    "icd_name": "Rotator Cuff Repair: Shoulder"
+  },
+  {
+    "icd_id": 2640,
+    "icd_name": "Salpingectomy, Laparoscopic"
+  },
+  {
+    "icd_id": 2639,
+    "icd_name": "Salpingectomy, Open Approach"
+  },
+  {
+    "icd_id": 1206,
+    "icd_name": "Sequestrectomy: Finger"
+  },
+  {
+    "icd_id": 1214,
+    "icd_name": "Sequestrectomy: Pelvic Region"
+  },
+  {
+    "icd_id": 1217,
+    "icd_name": "Sequestrectomy: Sternum"
+  },
+  {
+    "icd_id": 1220,
+    "icd_name": "Sequestrectomy: Tibia"
+  },
+  {
+    "icd_id": 2543,
+    "icd_name": "Shoulder Replacement - Revision"
+  },
+  {
+    "icd_id": 2583,
+    "icd_name": "Sigmoid Colectomy, Laparoscopic"
+  },
+  {
+    "icd_id": 2582,
+    "icd_name": "Sigmoid Colectomy, Open Approach"
+  },
+  {
+    "icd_id": 2577,
+    "icd_name": "Sigmoidoscopy"
+  },
+  {
+    "icd_id": 2504,
+    "icd_name": "Single-Level ACDF: Cervical"
+  },
+  {
+    "icd_id": 2514,
+    "icd_name": "Single-Level ALIF/LLIF: Lumbar"
+  },
+  {
+    "icd_id": 2528,
+    "icd_name": "Single-Level ALIF/LLIF: Lumbosacral"
+  },
+  {
+    "icd_id": 2515,
+    "icd_name": "Single-Level PLIF/TLIF: Lumbar"
+  },
+  {
+    "icd_id": 2524,
+    "icd_name": "Single-Level PLIF/TLIF: Lumbosacral"
+  },
+  {
+    "icd_id": 2516,
+    "icd_name": "Single-Level Posterior Fusion, ALIF/LLIF: Lumbar"
+  },
+  {
+    "icd_id": 2529,
+    "icd_name": "Single-Level Posterior Fusion, ALIF/LLIF: Lumbosacral"
+  },
+  {
+    "icd_id": 2505,
+    "icd_name": "Single-Level Posterior Fusion, Laminectomy/Discectomy: Cervical"
+  },
+  {
+    "icd_id": 2517,
+    "icd_name": "Single-Level Posterior Fusion, Laminectomy/Discectomy: Lumbar"
+  },
+  {
+    "icd_id": 2530,
+    "icd_name": "Single-Level Posterior Fusion, Laminectomy/Discectomy: Lumbosacral"
+  },
+  {
+    "icd_id": 2734,
+    "icd_name": "Single-Level Posterior Fusion, Laminectomy/Discectomy: Thoracic"
+  },
+  {
+    "icd_id": 2427,
+    "icd_name": "Single-Level Posterior Fusion: Cervical"
+  },
+  {
+    "icd_id": 2459,
+    "icd_name": "Single-Level Posterior Fusion: Cervicothoracic"
+  },
+  {
+    "icd_id": 2429,
+    "icd_name": "Single-Level Posterior Fusion: Lumbar"
+  },
+  {
+    "icd_id": 2461,
+    "icd_name": "Single-Level Posterior Fusion: Lumbosacral"
+  },
+  {
+    "icd_id": 2460,
+    "icd_name": "Single-Level Posterior Fusion: Thoracolumbar"
+  },
+  {
+    "icd_id": 1224,
+    "icd_name": "Skin Graft: Foot"
+  },
+  {
+    "icd_id": 1225,
+    "icd_name": "Skin Graft: Hand"
+  },
+  {
+    "icd_id": 1226,
+    "icd_name": "Skin Graft: Lower Arm"
+  },
+  {
+    "icd_id": 1227,
+    "icd_name": "Skin Graft: Lower Leg"
+  },
+  {
+    "icd_id": 1228,
+    "icd_name": "Skin Graft: Upper Arm"
+  },
+  {
+    "icd_id": 1229,
+    "icd_name": "Skin Graft: Upper Leg"
+  },
+  {
+    "icd_id": 2587,
+    "icd_name": "Sleeve Gastrectomy, Laparoscopic"
+  },
+  {
+    "icd_id": 2586,
+    "icd_name": "Sleeve Gastrectomy, Open Approach"
+  },
+  {
+    "icd_id": 2579,
+    "icd_name": "Small Bowel Resection, Laparoscopic"
+  },
+  {
+    "icd_id": 2578,
+    "icd_name": "Small Bowel Resection, Open Approach"
+  },
+  {
+    "icd_id": 2680,
+    "icd_name": "Splenectomy, Laparoscopic"
+  },
+  {
+    "icd_id": 2565,
+    "icd_name": "Splenectomy, Open Approach"
+  },
+  {
+    "icd_id": 1232,
+    "icd_name": "Suture of Capsule or Ligament: Elbow"
+  },
+  {
+    "icd_id": 1233,
+    "icd_name": "Suture of Capsule or Ligament: Hand"
+  },
+  {
+    "icd_id": 1235,
+    "icd_name": "Suture of Capsule or Ligament: Knee"
+  },
+  {
+    "icd_id": 1236,
+    "icd_name": "Suture of Capsule or Ligament: Shoulder"
+  },
+  {
+    "icd_id": 1238,
+    "icd_name": "Suture of Capsule or Ligament: Wrist"
+  },
+  {
+    "icd_id": 1239,
+    "icd_name": "Suture of Muscle or Fascia: Foot"
+  },
+  {
+    "icd_id": 1240,
+    "icd_name": "Suture of Muscle or Fascia: Hand"
+  },
+  {
+    "icd_id": 1242,
+    "icd_name": "Suture of Muscle or Fascia: Lower Arm"
+  },
+  {
+    "icd_id": 1243,
+    "icd_name": "Suture of Muscle or Fascia: Lower Leg"
+  },
+  {
+    "icd_id": 1245,
+    "icd_name": "Suture of Muscle or Fascia: Shoulder"
+  },
+  {
+    "icd_id": 1250,
+    "icd_name": "Suture of Tendon Sheath: Foot"
+  },
+  {
+    "icd_id": 1251,
+    "icd_name": "Suture of Tendon Sheath: Hand"
+  },
+  {
+    "icd_id": 1252,
+    "icd_name": "Suture of Tendon Sheath: Hip"
+  },
+  {
+    "icd_id": 1253,
+    "icd_name": "Suture of Tendon Sheath: Knee"
+  },
+  {
+    "icd_id": 1254,
+    "icd_name": "Suture of Tendon Sheath: Lower Arm"
+  },
+  {
+    "icd_id": 1255,
+    "icd_name": "Suture of Tendon Sheath: Lower Leg"
+  },
+  {
+    "icd_id": 1257,
+    "icd_name": "Suture of Tendon Sheath: Upper Arm"
+  },
+  {
+    "icd_id": 1258,
+    "icd_name": "Suture of Tendon Sheath: Upper Leg"
+  },
+  {
+    "icd_id": 1260,
+    "icd_name": "Synovectomy: Ankle Joint"
+  },
+  {
+    "icd_id": 1262,
+    "icd_name": "Synovectomy: Elbow Joint"
+  },
+  {
+    "icd_id": 1263,
+    "icd_name": "Synovectomy: Finger Phalangeal Joint"
+  },
+  {
+    "icd_id": 1264,
+    "icd_name": "Synovectomy: Hip Joint"
+  },
+  {
+    "icd_id": 1265,
+    "icd_name": "Synovectomy: Metacarpocarpal Joint"
+  },
+  {
+    "icd_id": 1266,
+    "icd_name": "Synovectomy: Metacarpophalangeal Joint"
+  },
+  {
+    "icd_id": 1267,
+    "icd_name": "Synovectomy: Metatarsal-Phalangeal Joint"
+  },
+  {
+    "icd_id": 1269,
+    "icd_name": "Synovectomy: Shoulder Joint"
+  },
+  {
+    "icd_id": 1270,
+    "icd_name": "Synovectomy: Sternoclavicular Joint"
+  },
+  {
+    "icd_id": 1271,
+    "icd_name": "Synovectomy: Tarsal Joint"
+  },
+  {
+    "icd_id": 1272,
+    "icd_name": "Synovectomy: Toe Phalangeal Joint"
+  },
+  {
+    "icd_id": 1273,
+    "icd_name": "Synovectomy: Wrist Joint"
+  },
+  {
+    "icd_id": 1274,
+    "icd_name": "Tarsometatarsal Fusion: Metatarsal-Tarsal Joint"
+  },
+  {
+    "icd_id": 2655,
+    "icd_name": "Temporal Artery Biopsy"
+  },
+  {
+    "icd_id": 1276,
+    "icd_name": "Tendon Graft: Foot"
+  },
+  {
+    "icd_id": 1277,
+    "icd_name": "Tendon Graft: Hip"
+  },
+  {
+    "icd_id": 1278,
+    "icd_name": "Tendon Graft: Knee"
+  },
+  {
+    "icd_id": 1279,
+    "icd_name": "Tendon Graft: Lower Arm"
+  },
+  {
+    "icd_id": 1280,
+    "icd_name": "Tendon Graft: Lower Leg"
+  },
+  {
+    "icd_id": 1284,
+    "icd_name": "Tendon Graft: Upper Leg"
+  },
+  {
+    "icd_id": 1286,
+    "icd_name": "Tendon Transfer or Transplantation: Foot"
+  },
+  {
+    "icd_id": 1291,
+    "icd_name": "Tendon Transfer or Transplantation: Lower Leg"
+  },
+  {
+    "icd_id": 1292,
+    "icd_name": "Tendon Transfer or Transplantation: Shoulder"
+  },
+  {
+    "icd_id": 1293,
+    "icd_name": "Tendon Transfer or Transplantation: Trunk"
+  },
+  {
+    "icd_id": 2653,
+    "icd_name": "Thoracic Aortic Aneurysm Repair, Open Approach"
+  },
+  {
+    "icd_id": 2661,
+    "icd_name": "Three Artery CABG"
+  },
+  {
+    "icd_id": 2707,
+    "icd_name": "Three Artery CABG (Multi-case)"
+  },
+  {
+    "icd_id": 2601,
+    "icd_name": "Three Artery PTCA with Stents"
+  },
+  {
+    "icd_id": 2727,
+    "icd_name": "Three Artery PTCA with Stents (Multi-case)"
+  },
+  {
+    "icd_id": 2600,
+    "icd_name": "Three Artery PTCA without Stents"
+  },
+  {
+    "icd_id": 2568,
+    "icd_name": "Thyroidectomy, Open Approach"
+  },
+  {
+    "icd_id": 2739,
+    "icd_name": "Toe Amputation"
+  },
+  {
+    "icd_id": 2701,
+    "icd_name": "Tonsillectomy"
+  },
+  {
+    "icd_id": 1297,
+    "icd_name": "Total Ankle Replacement: Ankle Joint"
+  },
+  {
+    "icd_id": 1298,
+    "icd_name": "Total Elbow Replacement: Elbow Joint"
+  },
+  {
+    "icd_id": 1299,
+    "icd_name": "Total Hip Replacement: Hip Joint"
+  },
+  {
+    "icd_id": 1300,
+    "icd_name": "Total Knee Replacement: Knee Joint"
+  },
+  {
+    "icd_id": 1311,
+    "icd_name": "Total Ostectomy: Patella"
+  },
+  {
+    "icd_id": 1320,
+    "icd_name": "Total Ostectomy: Ulna"
+  },
+  {
+    "icd_id": 1321,
+    "icd_name": "Total Resurfacing of Hip: Hip Joint"
+  },
+  {
+    "icd_id": 1322,
+    "icd_name": "Total Shoulder Replacement: Shoulder Joint"
+  },
+  {
+    "icd_id": 2650,
+    "icd_name": "Transcarotid Arterial Revascularization"
+  },
+  {
+    "icd_id": 2609,
+    "icd_name": "Tricuspid Valve Repair/Replacement, Open Approach"
+  },
+  {
+    "icd_id": 2610,
+    "icd_name": "Tricuspid Valve Repair/Replacement, Percutaneous Approach"
+  },
+  {
+    "icd_id": 1324,
+    "icd_name": "Triple Arthrodesis: Tarsal Joint"
+  },
+  {
+    "icd_id": 2665,
+    "icd_name": "Tubal Ligation"
+  },
+  {
+    "icd_id": 2660,
+    "icd_name": "Two Artery CABG"
+  },
+  {
+    "icd_id": 2708,
+    "icd_name": "Two Artery CABG (Multi-case)"
+  },
+  {
+    "icd_id": 2599,
+    "icd_name": "Two Artery PTCA with Stents"
+  },
+  {
+    "icd_id": 2712,
+    "icd_name": "Two Artery PTCA with Stents (Multi-case)"
+  },
+  {
+    "icd_id": 2598,
+    "icd_name": "Two Artery PTCA without Stents"
+  },
+  {
+    "icd_id": 2738,
+    "icd_name": "Two Artery PTCA without Stents (Multi-case)"
+  },
+  {
+    "icd_id": 1303,
+    "icd_name": "Unicompartmental Knee Joint Replacement"
+  },
+  {
+    "icd_id": 2718,
+    "icd_name": "Whipple Procedure"
+  },
+  {
+    "cpt_id": 147,
+    "cpt_name": "1-Level ACDF"
+  },
+  {
+    "cpt_id": 2501,
+    "cpt_name": "1-Level ALIF/LLIF"
+  },
+  {
+    "cpt_id": 2514,
+    "cpt_name": "1-Level ALIF/LLIF and Posterior Instrumentation"
+  },
+  {
+    "cpt_id": 156,
+    "cpt_name": "1-Level Disc Arthroplasty"
+  },
+  {
+    "cpt_id": 169,
+    "cpt_name": "1-Level Disc Arthroplasty with Laminectomy"
+  },
+  {
+    "cpt_id": 146,
+    "cpt_name": "1-Level Facet Cyst Excision"
+  },
+  {
+    "cpt_id": 80,
+    "cpt_name": "1-Level Far Lateral Discectomy"
+  },
+  {
+    "cpt_id": 54,
+    "cpt_name": "1-Level Laminectomy"
+  },
+  {
+    "cpt_id": 124,
+    "cpt_name": "1-Level Laminotomy"
+  },
+  {
+    "cpt_id": 61,
+    "cpt_name": "1-Level Laminotomy/Discectomy",
+    "cpt_synonyms": [
+      "1-Level Discectomy",
+      "1-Level Laminotomy/Discectomy"
+    ]
+  },
+  {
+    "cpt_id": 184,
+    "cpt_name": "1-Level PLIF/TLIF"
+  },
+  {
+    "cpt_id": 178,
+    "cpt_name": "1-Level PLIF/TLIF and Posterior Instrumentation"
+  },
+  {
+    "cpt_id": 192,
+    "cpt_name": "1-Level PLIF/TLIF and Posterior Instrumentation with Laminectomy"
+  },
+  {
+    "cpt_id": 173,
+    "cpt_name": "1-Level Posterior Fusion"
+  },
+  {
+    "cpt_id": 191,
+    "cpt_name": "1-Level Posterior Fusion and Posterior Instrumentation"
+  },
+  {
+    "cpt_id": 179,
+    "cpt_name": "1-Level Posterior Fusion and Posterior Instrumentation with Laminectomy"
+  },
+  {
+    "cpt_id": 174,
+    "cpt_name": "1-Level Posterior Fusion with Laminectomy"
+  },
+  {
+    "cpt_id": 63,
+    "cpt_name": "1-Level Revision Laminotomy/Discectomy"
+  },
+  {
+    "cpt_id": 140,
+    "cpt_name": "2-Level ACDF"
+  },
+  {
+    "cpt_id": 171,
+    "cpt_name": "2-Level Disc Arthroplasty"
+  },
+  {
+    "cpt_id": 2503,
+    "cpt_name": "2-Level Disc Arthroplasty with Laminectomy"
+  },
+  {
+    "cpt_id": 60,
+    "cpt_name": "2-Level Laminectomy"
+  },
+  {
+    "cpt_id": 194,
+    "cpt_name": "2-Level Laminotomy/Discectomy"
+  },
+  {
+    "cpt_id": 133,
+    "cpt_name": "2-Level PLIF/TLIF"
+  },
+  {
+    "cpt_id": 2512,
+    "cpt_name": "2-Level PLIF/TLIF and Posterior Instrumentation"
+  },
+  {
+    "cpt_id": 2540,
+    "cpt_name": "2-Level PLIF/TLIF with Laminectomy"
+  },
+  {
+    "cpt_id": 2500,
+    "cpt_name": "2-Level Posterior Fusion"
+  },
+  {
+    "cpt_id": 183,
+    "cpt_name": "2-Level Posterior Fusion and Posterior Instrumentation"
+  },
+  {
+    "cpt_id": 193,
+    "cpt_name": "2-Level Posterior Fusion and Posterior Instrumentation with Laminectomy"
+  },
+  {
+    "cpt_id": 154,
+    "cpt_name": "3-Level Laminectomy"
+  },
+  {
+    "cpt_id": 2524,
+    "cpt_name": "3-Level Posterior Fusion and Posterior Instrumentation"
+  },
+  {
+    "cpt_id": 181,
+    "cpt_name": "4-Level Laminectomy"
+  },
+  {
+    "cpt_id": 2602,
+    "cpt_name": "Abdominal Wall Hernia Repair, Laparoscopic"
+  },
+  {
+    "cpt_id": 2601,
+    "cpt_name": "Abdominal Wall Hernia Repair, Open Approach"
+  },
+  {
+    "cpt_id": 2780,
+    "cpt_name": "Ablation of Inferior Turbinates"
+  },
+  {
+    "cpt_id": 114,
+    "cpt_name": "Abrasion Arthroplasty/Multiple Drilling/Microfracture"
+  },
+  {
+    "cpt_id": 2607,
+    "cpt_name": "Adrenalectomy, Laparoscopic"
+  },
+  {
+    "cpt_id": 2625,
+    "cpt_name": "Anal Sphincter Injection"
+  },
+  {
+    "cpt_id": 2708,
+    "cpt_name": "Aneurysm Repair"
+  },
+  {
+    "cpt_id": 78,
+    "cpt_name": "Anterior Cruciate Ligament Reconstruction",
+    "cpt_synonyms": [
+      "anterior cruciate ligament repair",
+      "ACL Reconstruction",
+      "ACL",
+      "ACL Repair",
+      "Reconstruction ACL"
+    ]
+  },
+  {
+    "cpt_id": 2553,
+    "cpt_name": "Appendectomy, Laparoscopic"
+  },
+  {
+    "cpt_id": 2608,
+    "cpt_name": "Appendectomy, Open Approach "
+  },
+  {
+    "cpt_id": 2838,
+    "cpt_name": "Arterial/Venous Occlusion Procedure, Percutaneous"
+  },
+  {
+    "cpt_id": 2699,
+    "cpt_name": "Arteriovenous Fistula Banding"
+  },
+  {
+    "cpt_id": 2695,
+    "cpt_name": "Arteriovenous Fistula Creation"
+  },
+  {
+    "cpt_id": 2704,
+    "cpt_name": "Arteriovenous Graft Creation"
+  },
+  {
+    "cpt_id": 36,
+    "cpt_name": "Arthroscopic Knee Procedure"
+  },
+  {
+    "cpt_id": 2742,
+    "cpt_name": "Artificial Urinary Sphincter (AUS) Insertion"
+  },
+  {
+    "cpt_id": 2744,
+    "cpt_name": "Artificial Urinary Sphincter (AUS) Removal"
+  },
+  {
+    "cpt_id": 116,
+    "cpt_name": "Autologous Chondrocyte Implantation"
+  },
+  {
+    "cpt_id": 91,
+    "cpt_name": "Biceps Tenodesis"
+  },
+  {
+    "cpt_id": 2795,
+    "cpt_name": "Bone Biopsy"
+  },
+  {
+    "cpt_id": 2784,
+    "cpt_name": "Breast Biopsy"
+  },
+  {
+    "cpt_id": 2810,
+    "cpt_name": "Breast Periprosthetic Capsulectomy"
+  },
+  {
+    "cpt_id": 2812,
+    "cpt_name": "Breast Reduction Procedure"
+  },
+  {
+    "cpt_id": 2730,
+    "cpt_name": "Bronchoscopy with Balloon Occlusion/Valve Insertion"
+  },
+  {
+    "cpt_id": 2729,
+    "cpt_name": "Bronchoscopy with Stent Insertion"
+  },
+  {
+    "cpt_id": 2728,
+    "cpt_name": "Bronchoscopy/Thoracoscopy with Tumor Excision"
+  },
+  {
+    "cpt_id": 2726,
+    "cpt_name": "Bronchoscopy/Thoracoscopy, Diagnostic with Possible Aspiration"
+  },
+  {
+    "cpt_id": 51,
+    "cpt_name": "Bunion Surgery"
+  },
+  {
+    "cpt_id": 120,
+    "cpt_name": "Calcaneal Fracture"
+  },
+  {
+    "cpt_id": 95,
+    "cpt_name": "Capsular Release"
+  },
+  {
+    "cpt_id": 96,
+    "cpt_name": "Capsulorraphy"
+  },
+  {
+    "cpt_id": 79,
+    "cpt_name": "Capsulorrhaphy with Coracoid Transfer"
+  },
+  {
+    "cpt_id": 2800,
+    "cpt_name": "Cardiac Ablation (AFib), Percutaneous"
+  },
+  {
+    "cpt_id": 2798,
+    "cpt_name": "Cardiac Ablation (SVT), Percutaneous"
+  },
+  {
+    "cpt_id": 2799,
+    "cpt_name": "Cardiac Ablation (VT), Percutaneous"
+  },
+  {
+    "cpt_id": 2652,
+    "cpt_name": "Cardiac Ablation, Percutaneous"
+  },
+  {
+    "cpt_id": 2653,
+    "cpt_name": "Cardiac Monitor Insertion, Percutaneous"
+  },
+  {
+    "cpt_id": 2655,
+    "cpt_name": "Cardiac Monitor Removal, Percutaneous"
+  },
+  {
+    "cpt_id": 2806,
+    "cpt_name": "Cardiac Resynchronization Therapy Defibrillator (CRT-D) Insertion, Percutaneous"
+  },
+  {
+    "cpt_id": 2805,
+    "cpt_name": "Cardiac Resynchronization Therapy Pacemaker (CRT-P) Insertion, Percutaneous"
+  },
+  {
+    "cpt_id": 2598,
+    "cpt_name": "Cardioversion"
+  },
+  {
+    "cpt_id": 2562,
+    "cpt_name": "Cervical biosy"
+  },
+  {
+    "cpt_id": 67,
+    "cpt_name": "Cheilectomy Of Hallux"
+  },
+  {
+    "cpt_id": 2552,
+    "cpt_name": "Cholecystectomy, Laparoscopic"
+  },
+  {
+    "cpt_id": 2609,
+    "cpt_name": "Cholecystectomy, Open Approach"
+  },
+  {
+    "cpt_id": 27,
+    "cpt_name": "Chondroplasty"
+  },
+  {
+    "cpt_id": 2741,
+    "cpt_name": "Circumcision"
+  },
+  {
+    "cpt_id": 2629,
+    "cpt_name": "Closure of Anal Fistula"
+  },
+  {
+    "cpt_id": 2641,
+    "cpt_name": "Colectomy, Laparoscopic"
+  },
+  {
+    "cpt_id": 2642,
+    "cpt_name": "Colonoscopy"
+  },
+  {
+    "cpt_id": 2679,
+    "cpt_name": "Colporraphy"
+  },
+  {
+    "cpt_id": 98,
+    "cpt_name": "Complete Synovectomy"
+  },
+  {
+    "cpt_id": 2671,
+    "cpt_name": "Congenital Interatrial Communication Closure, Transcatheter Approach"
+  },
+  {
+    "cpt_id": 2681,
+    "cpt_name": "Conization of Cervix"
+  },
+  {
+    "cpt_id": 2796,
+    "cpt_name": "Core Muscle Repair"
+  },
+  {
+    "cpt_id": 2717,
+    "cpt_name": "Cranial Tumor Removal, Posterior Fossa Approach "
+  },
+  {
+    "cpt_id": 2751,
+    "cpt_name": "Cystotomy with Drainage"
+  },
+  {
+    "cpt_id": 2739,
+    "cpt_name": "Cystourethroscopy with Bladder Chemodenervation"
+  },
+  {
+    "cpt_id": 2841,
+    "cpt_name": "Cystourethroscopy with Possible Calculus Removal"
+  },
+  {
+    "cpt_id": 2736,
+    "cpt_name": "Cystourethroscopy with Possible Stone Removal"
+  },
+  {
+    "cpt_id": 2754,
+    "cpt_name": "Cystourethroscopy with Transprostatic Implant Insertion"
+  },
+  {
+    "cpt_id": 2738,
+    "cpt_name": "Cystourethroscopy with Tumor Removal"
+  },
+  {
+    "cpt_id": 2749,
+    "cpt_name": "Cystourethroscopy with Tumor Removal and Stent Placement"
+  },
+  {
+    "cpt_id": 2735,
+    "cpt_name": "Cystourethroscopy with Ureteral Stent Placement"
+  },
+  {
+    "cpt_id": 45,
+    "cpt_name": "Debridement/Medial Epicondylitis/Lateral Epicondylitis"
+  },
+  {
+    "cpt_id": 90,
+    "cpt_name": "Debridement/Synovectomy"
+  },
+  {
+    "cpt_id": 2639,
+    "cpt_name": "Destruction of Anal/Rectal Lesion"
+  },
+  {
+    "cpt_id": 2594,
+    "cpt_name": "Diagnostic Angiogram"
+  },
+  {
+    "cpt_id": 84,
+    "cpt_name": "Diagnostic Arthroscopy"
+  },
+  {
+    "cpt_id": 2630,
+    "cpt_name": "Diagnostic Laparoscopy"
+  },
+  {
+    "cpt_id": 2626,
+    "cpt_name": "Diagnostic Procedure of Anus/Rectum"
+  },
+  {
+    "cpt_id": 2632,
+    "cpt_name": "Diagnostic Sigmoidoscopy"
+  },
+  {
+    "cpt_id": 2707,
+    "cpt_name": "Dialysis Circuit Imaging/Intervention"
+  },
+  {
+    "cpt_id": 2559,
+    "cpt_name": "Dilation & curettage, non-obstetrical"
+  },
+  {
+    "cpt_id": 2560,
+    "cpt_name": "Dilation & curettage, obstetrical"
+  },
+  {
+    "cpt_id": 2676,
+    "cpt_name": "Dilation and Evacuation (D&E)"
+  },
+  {
+    "cpt_id": 2635,
+    "cpt_name": "Dilation Procedure of Anus/Rectum"
+  },
+  {
+    "cpt_id": 2765,
+    "cpt_name": "Direct Laryngoscopy "
+  },
+  {
+    "cpt_id": 128,
+    "cpt_name": "Distal Biceps Repair"
+  },
+  {
+    "cpt_id": 82,
+    "cpt_name": "Distal Biceps/Triceps Repair"
+  },
+  {
+    "cpt_id": 121,
+    "cpt_name": "Distal Clavicle Excision"
+  },
+  {
+    "cpt_id": 107,
+    "cpt_name": "Distal Fibular Fracture"
+  },
+  {
+    "cpt_id": 143,
+    "cpt_name": "Distal Tibia"
+  },
+  {
+    "cpt_id": 132,
+    "cpt_name": "Drilling For Intact Osteochondritis Dissecans Lesion"
+  },
+  {
+    "cpt_id": 2651,
+    "cpt_name": "Echocardiography, Transesophageal"
+  },
+  {
+    "cpt_id": 2650,
+    "cpt_name": "Echocardiography, Transthoracic"
+  },
+  {
+    "cpt_id": 2595,
+    "cpt_name": "Electrophysiology (EP) Study"
+  },
+  {
+    "cpt_id": 2673,
+    "cpt_name": "Endomyocardial biopsy (EMB)"
+  },
+  {
+    "cpt_id": 49,
+    "cpt_name": "Endoscopic Carpal Tunnel Release"
+  },
+  {
+    "cpt_id": 2646,
+    "cpt_name": "Endoscopic Retrograde Cholangiopancreatography (ERCP)"
+  },
+  {
+    "cpt_id": 2706,
+    "cpt_name": "Endovascular Revascularization, Lower Extremities with Stents"
+  },
+  {
+    "cpt_id": 2721,
+    "cpt_name": "Endovascular Revascularization, Lower Extremities without Stents"
+  },
+  {
+    "cpt_id": 2722,
+    "cpt_name": "Endovascular Revascularization, Other Than Lower Extremities with Stents"
+  },
+  {
+    "cpt_id": 2723,
+    "cpt_name": "Endovascular Revascularization, Other Than Lower Extremities without Stents"
+  },
+  {
+    "cpt_id": 2842,
+    "cpt_name": "Endovenous Treatment of Greater Saphenous Vein"
+  },
+  {
+    "cpt_id": 2576,
+    "cpt_name": "ENT Procedure"
+  },
+  {
+    "cpt_id": 2636,
+    "cpt_name": "Enterolysis, Laparoscopic"
+  },
+  {
+    "cpt_id": 2644,
+    "cpt_name": "Enterostomy/Colostomy, Laparoscopic"
+  },
+  {
+    "cpt_id": 2640,
+    "cpt_name": "Esophagogastroduodenoscopy (EGD)"
+  },
+  {
+    "cpt_id": 2685,
+    "cpt_name": "Examination Under Anesthesia (Gynecologic)"
+  },
+  {
+    "cpt_id": 2793,
+    "cpt_name": "Excision of Benign Lesion"
+  },
+  {
+    "cpt_id": 2716,
+    "cpt_name": "Excision of Benign Peripheral Nerve Tumor"
+  },
+  {
+    "cpt_id": 2783,
+    "cpt_name": "Excision of Breast Lesion"
+  },
+  {
+    "cpt_id": 2823,
+    "cpt_name": "Excision of Breast Lesion with Reconstruction"
+  },
+  {
+    "cpt_id": 2786,
+    "cpt_name": "Excision of Chest Wall Tumor"
+  },
+  {
+    "cpt_id": 2790,
+    "cpt_name": "Excision of Malignant Lesion"
+  },
+  {
+    "cpt_id": 2775,
+    "cpt_name": "Excision of Mouth Vestibule Lesion"
+  },
+  {
+    "cpt_id": 86,
+    "cpt_name": "Excision Of Osteochondral Defect Of Talus And/Or Tibia"
+  },
+  {
+    "cpt_id": 2791,
+    "cpt_name": "Excision of Soft Tissue Tumor"
+  },
+  {
+    "cpt_id": 2776,
+    "cpt_name": "Excision of Submandibular (Submaxillary) Gland"
+  },
+  {
+    "cpt_id": 2797,
+    "cpt_name": "Excision of Tongue Lesion"
+  },
+  {
+    "cpt_id": 2675,
+    "cpt_name": "Excision or Fulguration of Gynecological Lesion, Laparoscopic"
+  },
+  {
+    "cpt_id": 85,
+    "cpt_name": "Extra-Articular Distal Radius Fracture"
+  },
+  {
+    "cpt_id": 113,
+    "cpt_name": "Extra-Articular Ligament Reconstruction"
+  },
+  {
+    "cpt_id": 2603,
+    "cpt_name": "Femoral Hernia Repair, Open Approach"
+  },
+  {
+    "cpt_id": 2623,
+    "cpt_name": "Fistulectomy or Fistulotomy"
+  },
+  {
+    "cpt_id": 2615,
+    "cpt_name": "Gastric Bypass, Laparoscopic"
+  },
+  {
+    "cpt_id": 2578,
+    "cpt_name": "General Surgery Procedure"
+  },
+  {
+    "cpt_id": 2768,
+    "cpt_name": "Glossectomy "
+  },
+  {
+    "cpt_id": 2624,
+    "cpt_name": "Hemorrhoidectomy"
+  },
+  {
+    "cpt_id": 2564,
+    "cpt_name": "Hysterectomy, laparoscopic, vaginal approach"
+  },
+  {
+    "cpt_id": 2709,
+    "cpt_name": "Hysterectomy, subtotal, open approach"
+  },
+  {
+    "cpt_id": 2563,
+    "cpt_name": "Hysterectomy, total, laparoscopic"
+  },
+  {
+    "cpt_id": 2565,
+    "cpt_name": "Hysterectomy, total, robotic"
+  },
+  {
+    "cpt_id": 2558,
+    "cpt_name": "Hysteroscopy, operative",
+    "cpt_synonyms": [
+      "Hysteroscopy",
+      "Op Hysteroscopy"
+    ]
+  },
+  {
+    "cpt_id": 2777,
+    "cpt_name": "Implantation of Bone Conduction Hearing Aid"
+  },
+  {
+    "cpt_id": 2631,
+    "cpt_name": "Incision and Drainage of Perianal Abscess"
+  },
+  {
+    "cpt_id": 2831,
+    "cpt_name": "Incision and Drainage Procedures on the Skin"
+  },
+  {
+    "cpt_id": 2600,
+    "cpt_name": "Inguinal Hernia Repair, Laparoscopic"
+  },
+  {
+    "cpt_id": 2599,
+    "cpt_name": "Inguinal Hernia Repair, Open Approach"
+  },
+  {
+    "cpt_id": 2811,
+    "cpt_name": "Insertion of Breast Prosthesis"
+  },
+  {
+    "cpt_id": 2815,
+    "cpt_name": "Insertion of Breast Tissue Expander, Reconstruction"
+  },
+  {
+    "cpt_id": 2727,
+    "cpt_name": "Insertion/Removal of Indwelling Pleural Catheter"
+  },
+  {
+    "cpt_id": 142,
+    "cpt_name": "Intercondylar Spine(s) And/Or Tuberosity Fracture(s) Of The Knee"
+  },
+  {
+    "cpt_id": 106,
+    "cpt_name": "Intra-Articular Distal Radius Fracture"
+  },
+  {
+    "cpt_id": 2678,
+    "cpt_name": "Intrauterine Contraceptive Device (IUD) Insertion"
+  },
+  {
+    "cpt_id": 2731,
+    "cpt_name": "Knee Amputation"
+  },
+  {
+    "cpt_id": 129,
+    "cpt_name": "Labral Repair"
+  },
+  {
+    "cpt_id": 2573,
+    "cpt_name": "Laminotomy/Discectomy"
+  },
+  {
+    "cpt_id": 137,
+    "cpt_name": "Large Osteochondritis Dissecans Lesion, Talar Dome Fracture, Or Tibial Plafond Fracture"
+  },
+  {
+    "cpt_id": 2774,
+    "cpt_name": "Laryngoplasty"
+  },
+  {
+    "cpt_id": 131,
+    "cpt_name": "Lateral Release"
+  },
+  {
+    "cpt_id": 2801,
+    "cpt_name": "Leadless Pacemaker Insertion, Percutaneous"
+  },
+  {
+    "cpt_id": 97,
+    "cpt_name": "Limited Surgical Debridement"
+  },
+  {
+    "cpt_id": 73,
+    "cpt_name": "Loose Body Removal"
+  },
+  {
+    "cpt_id": 2787,
+    "cpt_name": "Lymph Node Biopsy"
+  },
+  {
+    "cpt_id": 2619,
+    "cpt_name": "Lymph Node Excision, Laparoscopic"
+  },
+  {
+    "cpt_id": 144,
+    "cpt_name": "Lysis Of Adhesions"
+  },
+  {
+    "cpt_id": 123,
+    "cpt_name": "Malleolus Fracture"
+  },
+  {
+    "cpt_id": 72,
+    "cpt_name": "Manipulation Under Anesthesia"
+  },
+  {
+    "cpt_id": 2820,
+    "cpt_name": "Mastectomy, Bilateral Modified Radical with Reconstruction"
+  },
+  {
+    "cpt_id": 2479,
+    "cpt_name": "Mastectomy, Modified Radical"
+  },
+  {
+    "cpt_id": 2489,
+    "cpt_name": "Mastectomy, Modified Radical with Reconstruction"
+  },
+  {
+    "cpt_id": 2821,
+    "cpt_name": "Mastectomy, Partial\t with Reconstruction"
+  },
+  {
+    "cpt_id": 2782,
+    "cpt_name": "Mastectomy, Partial",
+    "cpt_synonyms": [
+      "Partial Mastectomy",
+      "Mastectomy Partial",
+      "breast-conserving surgery",
+      "breast-sparing surgery",
+      "lumpectomy",
+      "tylectomy",
+      "breast segmental resection",
+      "breast wide local excision",
+      "Quadrantectomy",
+      "BSC",
+      "WLE",
+      "breast conserving surgery",
+      "breast sparing surgery",
+      "Partial-Mastectomy"
+    ]
+  },
+  {
+    "cpt_id": 2483,
+    "cpt_name": "Mastectomy, Simple"
+  },
+  {
+    "cpt_id": 2822,
+    "cpt_name": "Mastectomy, Simple with Reconstruction"
+  },
+  {
+    "cpt_id": 2844,
+    "cpt_name": "Medial Nerve Release And Transposition Carpal Tunnel"
+  },
+  {
+    "cpt_id": 105,
+    "cpt_name": "Metatarsal Fracture"
+  },
+  {
+    "cpt_id": 2549,
+    "cpt_name": "Multi-CPT Carpal Tunnel"
+  },
+  {
+    "cpt_id": 2684,
+    "cpt_name": "Myomectomy, Laparoscopic"
+  },
+  {
+    "cpt_id": 2772,
+    "cpt_name": "Nasal/Sinus Endoscopy, Diagnostic"
+  },
+  {
+    "cpt_id": 2769,
+    "cpt_name": "Nasal/Sinus Endoscopy, Interventional"
+  },
+  {
+    "cpt_id": 2836,
+    "cpt_name": "Nephrectomy, Percutaneous Approach"
+  },
+  {
+    "cpt_id": 2745,
+    "cpt_name": "Nephrostolithotomy/Pyelostolithotomy, Percutaneous Approach"
+  },
+  {
+    "cpt_id": 2713,
+    "cpt_name": "Neurostimulator Insertion/Replacement"
+  },
+  {
+    "cpt_id": 2718,
+    "cpt_name": "Neurostimulator Removal/Revision"
+  },
+  {
+    "cpt_id": 2725,
+    "cpt_name": "Neurostimulator Test Procedure"
+  },
+  {
+    "cpt_id": 2574,
+    "cpt_name": "Neurosurgery Procedure"
+  },
+  {
+    "cpt_id": 81,
+    "cpt_name": "Olecranon Fracture Internal Fixation"
+  },
+  {
+    "cpt_id": 2580,
+    "cpt_name": "Oncology Procedure"
+  },
+  {
+    "cpt_id": 2660,
+    "cpt_name": "One Artery PTCA with Stents"
+  },
+  {
+    "cpt_id": 2659,
+    "cpt_name": "One Artery PTCA without Stents"
+  },
+  {
+    "cpt_id": 43,
+    "cpt_name": "Open Carpal Tunnel Release",
+    "cpt_synonyms": [
+      "Open CTR",
+      "Carpal Tunnel Repair",
+      "Carpal Tunnel",
+      "transverse carpal ligament release",
+      "carpal tunnel decompression"
+    ]
+  },
+  {
+    "cpt_id": 2715,
+    "cpt_name": "Orbital Floor Fracture Treatment, Open Approach"
+  },
+  {
+    "cpt_id": 2758,
+    "cpt_name": "Orchidectomy"
+  },
+  {
+    "cpt_id": 2837,
+    "cpt_name": "Orchiopexy, Inguinal Approach"
+  },
+  {
+    "cpt_id": 2571,
+    "cpt_name": "Orthopedic Implant Removal"
+  },
+  {
+    "cpt_id": 76,
+    "cpt_name": "Osteochondral Allograft Transplantation"
+  },
+  {
+    "cpt_id": 127,
+    "cpt_name": "Osteochondral Autograft"
+  },
+  {
+    "cpt_id": 2613,
+    "cpt_name": "Other Cardiothoracic Procedures"
+  },
+  {
+    "cpt_id": 2570,
+    "cpt_name": "Other Cardiovascular Procedures"
+  },
+  {
+    "cpt_id": 94,
+    "cpt_name": "Other Elbow Arthroscopy"
+  },
+  {
+    "cpt_id": 167,
+    "cpt_name": "Other Elbow Arthrotomy"
+  },
+  {
+    "cpt_id": 92,
+    "cpt_name": "Other Elbow Excision"
+  },
+  {
+    "cpt_id": 136,
+    "cpt_name": "Other Elbow Fracture and/or Dislocation"
+  },
+  {
+    "cpt_id": 172,
+    "cpt_name": "Other Elbow Incision"
+  },
+  {
+    "cpt_id": 161,
+    "cpt_name": "Other Elbow Removal"
+  },
+  {
+    "cpt_id": 70,
+    "cpt_name": "Other Elbow Repair/Revision/Reconstruction"
+  },
+  {
+    "cpt_id": 108,
+    "cpt_name": "Other Foot/Ankle Amputation"
+  },
+  {
+    "cpt_id": 62,
+    "cpt_name": "Other Foot/Ankle Arthrodesis"
+  },
+  {
+    "cpt_id": 50,
+    "cpt_name": "Other Foot/Ankle Arthroscopy"
+  },
+  {
+    "cpt_id": 99,
+    "cpt_name": "Other Foot/Ankle Arthrotomy"
+  },
+  {
+    "cpt_id": 152,
+    "cpt_name": "Other Foot/Ankle Endoscopy"
+  },
+  {
+    "cpt_id": 59,
+    "cpt_name": "Other Foot/Ankle Excision"
+  },
+  {
+    "cpt_id": 104,
+    "cpt_name": "Other Foot/Ankle Fracture and/or Dislocation"
+  },
+  {
+    "cpt_id": 151,
+    "cpt_name": "Other Foot/Ankle Incision"
+  },
+  {
+    "cpt_id": 135,
+    "cpt_name": "Other Foot/Ankle Manipulation"
+  },
+  {
+    "cpt_id": 164,
+    "cpt_name": "Other Foot/Ankle Removal"
+  },
+  {
+    "cpt_id": 47,
+    "cpt_name": "Other Foot/Ankle Repair/Revision/Reconstruction"
+  },
+  {
+    "cpt_id": 2645,
+    "cpt_name": "Other Gastric Restrictive Procedure"
+  },
+  {
+    "cpt_id": 2637,
+    "cpt_name": "Other Gastroenterology Procedure"
+  },
+  {
+    "cpt_id": 141,
+    "cpt_name": "Other Hand/Wrist Amputation"
+  },
+  {
+    "cpt_id": 109,
+    "cpt_name": "Other Hand/Wrist Arthrodesis"
+  },
+  {
+    "cpt_id": 89,
+    "cpt_name": "Other Hand/Wrist Arthroscopy"
+  },
+  {
+    "cpt_id": 112,
+    "cpt_name": "Other Hand/Wrist Arthrotomy"
+  },
+  {
+    "cpt_id": 55,
+    "cpt_name": "Other Hand/Wrist Excision"
+  },
+  {
+    "cpt_id": 102,
+    "cpt_name": "Other Hand/Wrist Fracture and/or Dislocation"
+  },
+  {
+    "cpt_id": 44,
+    "cpt_name": "Other Hand/Wrist Incision"
+  },
+  {
+    "cpt_id": 126,
+    "cpt_name": "Other Hand/Wrist Removal"
+  },
+  {
+    "cpt_id": 42,
+    "cpt_name": "Other Hand/Wrist Repair/Revision/Reconstruction"
+  },
+  {
+    "cpt_id": 149,
+    "cpt_name": "Other Hip Arthroscopy"
+  },
+  {
+    "cpt_id": 139,
+    "cpt_name": "Other Hip Excision"
+  },
+  {
+    "cpt_id": 150,
+    "cpt_name": "Other Hip Fracture and/or Dislocation"
+  },
+  {
+    "cpt_id": 83,
+    "cpt_name": "Other Hip Incision"
+  },
+  {
+    "cpt_id": 53,
+    "cpt_name": "Other Hip Injection"
+  },
+  {
+    "cpt_id": 159,
+    "cpt_name": "Other Hip Removal"
+  },
+  {
+    "cpt_id": 100,
+    "cpt_name": "Other Hip Repair/Revision/Reconstruction"
+  },
+  {
+    "cpt_id": 71,
+    "cpt_name": "Other Knee Arthroscopy"
+  },
+  {
+    "cpt_id": 117,
+    "cpt_name": "Other Knee Arthrotomy"
+  },
+  {
+    "cpt_id": 119,
+    "cpt_name": "Other Knee Excision"
+  },
+  {
+    "cpt_id": 110,
+    "cpt_name": "Other Knee Fracture and/or Dislocation"
+  },
+  {
+    "cpt_id": 118,
+    "cpt_name": "Other Knee Incision"
+  },
+  {
+    "cpt_id": 66,
+    "cpt_name": "Other Knee Repair/Revision/Reconstruction"
+  },
+  {
+    "cpt_id": 2792,
+    "cpt_name": "Other Liver Procedures, Laparoscopic"
+  },
+  {
+    "cpt_id": 2714,
+    "cpt_name": "Other Neurosurgery Procedures"
+  },
+  {
+    "cpt_id": 2579,
+    "cpt_name": "Other Ob/Gyn Procedure"
+  },
+  {
+    "cpt_id": 2555,
+    "cpt_name": "Other Shoulder Arthrodesis"
+  },
+  {
+    "cpt_id": 68,
+    "cpt_name": "Other Shoulder Arthroscopy",
+    "cpt_synonyms": [
+      "SLAP repair",
+      "SLAP Lesion",
+      "Shoulder surgery"
+    ]
+  },
+  {
+    "cpt_id": 93,
+    "cpt_name": "Other Shoulder Excision"
+  },
+  {
+    "cpt_id": 56,
+    "cpt_name": "Other Shoulder Fracture and/or Dislocation"
+  },
+  {
+    "cpt_id": 160,
+    "cpt_name": "Other Shoulder Incision"
+  },
+  {
+    "cpt_id": 101,
+    "cpt_name": "Other Shoulder Repair/Revision/Reconstruction"
+  },
+  {
+    "cpt_id": 2572,
+    "cpt_name": "Other Spine Injection",
+    "cpt_synonyms": [
+      "Spinal Injection",
+      "back Pain procedure",
+      "Therapeutic epidural spinal injections",
+      "back injection"
+    ]
+  },
+  {
+    "cpt_id": 2807,
+    "cpt_name": "Other Spine Procedure"
+  },
+  {
+    "cpt_id": 2581,
+    "cpt_name": "Other Urology Procedures"
+  },
+  {
+    "cpt_id": 2759,
+    "cpt_name": "Other Vascular Procedures"
+  },
+  {
+    "cpt_id": 2597,
+    "cpt_name": "Pacemaker Removal, Percutaneous"
+  },
+  {
+    "cpt_id": 2634,
+    "cpt_name": "Paraesophageal Hernia Repair, Laparoscopic"
+  },
+  {
+    "cpt_id": 2612,
+    "cpt_name": "Parathyroidectomy, Open Approach"
+  },
+  {
+    "cpt_id": 2618,
+    "cpt_name": "Parotidectomy, Open Approach"
+  },
+  {
+    "cpt_id": 185,
+    "cpt_name": "Partial Knee Joint Replacement"
+  },
+  {
+    "cpt_id": 69,
+    "cpt_name": "Partial Meniscectomy (Medial And Lateral)"
+  },
+  {
+    "cpt_id": 52,
+    "cpt_name": "Partial Meniscectomy (Medial Or Lateral)",
+    "cpt_synonyms": [
+      "Medial Meniscectomy",
+      "Lateral Meniscectomy",
+      "Partial Meniscectomy",
+      "arthroscopic partial meniscectomy",
+      "PM",
+      "APM",
+      "Meniscectomy"
+    ]
+  },
+  {
+    "cpt_id": 88,
+    "cpt_name": "Partial Synovectomy"
+  },
+  {
+    "cpt_id": 2747,
+    "cpt_name": "Penile Prosthesis Insertion"
+  },
+  {
+    "cpt_id": 122,
+    "cpt_name": "Percutaneous Skeletal Fixation Of Distal Radial Fracture"
+  },
+  {
+    "cpt_id": 2616,
+    "cpt_name": "Peritoneal Catheter Insertion"
+  },
+  {
+    "cpt_id": 2617,
+    "cpt_name": "Peritoneal Catheter Removal"
+  },
+  {
+    "cpt_id": 2621,
+    "cpt_name": "Peritoneal Catheter Revision"
+  },
+  {
+    "cpt_id": 2697,
+    "cpt_name": "Phlebectomy of Varicose Veins"
+  },
+  {
+    "cpt_id": 2633,
+    "cpt_name": "Pilonidal Cyst Excision"
+  },
+  {
+    "cpt_id": 2620,
+    "cpt_name": "Placement of Gastrojejunostomy Tube"
+  },
+  {
+    "cpt_id": 162,
+    "cpt_name": "Posterior Cruciate Ligament Reconstruction"
+  },
+  {
+    "cpt_id": 2494,
+    "cpt_name": "Prostate Ablation"
+  },
+  {
+    "cpt_id": 2750,
+    "cpt_name": "Prostate Biopsy"
+  },
+  {
+    "cpt_id": 2495,
+    "cpt_name": "Prostatectomy"
+  },
+  {
+    "cpt_id": 2737,
+    "cpt_name": "Prostatectomy, Laparoscopic"
+  },
+  {
+    "cpt_id": 2740,
+    "cpt_name": "Prostatectomy, Transurethral Approach"
+  },
+  {
+    "cpt_id": 58,
+    "cpt_name": "Proximal Hamstring Reconstruction"
+  },
+  {
+    "cpt_id": 2752,
+    "cpt_name": "Pyeloplasty, Laparoscopic"
+  },
+  {
+    "cpt_id": 87,
+    "cpt_name": "Reconstruction of Dislocating Patella"
+  },
+  {
+    "cpt_id": 2628,
+    "cpt_name": "Rectal Tumor Excision, Transanal Approach"
+  },
+  {
+    "cpt_id": 2814,
+    "cpt_name": "Removal of Breast Implant"
+  },
+  {
+    "cpt_id": 2816,
+    "cpt_name": "Removal of Breast Tissue Expander without Permanent Prosthesis Replacement"
+  },
+  {
+    "cpt_id": 2691,
+    "cpt_name": "Removal of Spinal Instrumentation"
+  },
+  {
+    "cpt_id": 2753,
+    "cpt_name": "Renal Tumor Ablation"
+  },
+  {
+    "cpt_id": 2755,
+    "cpt_name": "Renal Tumor Ablation, Laparoscopic"
+  },
+  {
+    "cpt_id": 57,
+    "cpt_name": "Repair Of Achilles Tendon Rupture"
+  },
+  {
+    "cpt_id": 153,
+    "cpt_name": "Repair Of Dislocating Peroneal Tendon"
+  },
+  {
+    "cpt_id": 48,
+    "cpt_name": "Repair Of Triangulfibrocartilage Complex (Tfcc)"
+  },
+  {
+    "cpt_id": 2808,
+    "cpt_name": "Replacement of Breast Tissue Expander with Permanent Prosthesis"
+  },
+  {
+    "cpt_id": 2785,
+    "cpt_name": "Resection of Lymph Nodes, Radical"
+  },
+  {
+    "cpt_id": 177,
+    "cpt_name": "Reverse and Anatomical Total Shoulder Replacement",
+    "cpt_synonyms": [
+      "Anatomical Total Shoulder Replacement",
+      "Reverse Total Shoulder Replacement",
+      "TST",
+      "RTSR",
+      "Anatomic Total Shoulder Arthroplasty",
+      "Reverse TSA",
+      "Total Shoulder Arthroplasty"
+    ]
+  },
+  {
+    "cpt_id": 2638,
+    "cpt_name": "Revision Colostomy"
+  },
+  {
+    "cpt_id": 2694,
+    "cpt_name": "Revision of Arteriovenous Fistula"
+  },
+  {
+    "cpt_id": 2813,
+    "cpt_name": "Revision of Breast Reconstruction"
+  },
+  {
+    "cpt_id": 190,
+    "cpt_name": "Revision of Hip Joint Replacement"
+  },
+  {
+    "cpt_id": 2499,
+    "cpt_name": "Revision of Knee Joint Replacement"
+  },
+  {
+    "cpt_id": 2778,
+    "cpt_name": "Rhinoplasty"
+  },
+  {
+    "cpt_id": 3,
+    "cpt_name": "Rotator Cuff Repair"
+  },
+  {
+    "cpt_id": 2561,
+    "cpt_name": "Salpingo-oophorectomy, laparoscopic"
+  },
+  {
+    "cpt_id": 2763,
+    "cpt_name": "Septoplasty and/or Resection of Inferior Turbinate"
+  },
+  {
+    "cpt_id": 166,
+    "cpt_name": "Shoulder Hemi-Arthroplasty"
+  },
+  {
+    "cpt_id": 2488,
+    "cpt_name": "Simple Mastectomy with Reconstruction"
+  },
+  {
+    "cpt_id": 111,
+    "cpt_name": "SLAP Repair/Debridement"
+  },
+  {
+    "cpt_id": 2614,
+    "cpt_name": "Sleeve Gastrectomy, Laparoscopic"
+  },
+  {
+    "cpt_id": 2743,
+    "cpt_name": "Sling Operation for Stress Incontinence"
+  },
+  {
+    "cpt_id": 2627,
+    "cpt_name": "Sphincterectomy"
+  },
+  {
+    "cpt_id": 2654,
+    "cpt_name": "Standard Defibrillator Insertion, Percutaneous"
+  },
+  {
+    "cpt_id": 2596,
+    "cpt_name": "Standard Pacemaker Insertion, Percutaneous"
+  },
+  {
+    "cpt_id": 2703,
+    "cpt_name": "Stripping/Ligation of Saphenous Vein"
+  },
+  {
+    "cpt_id": 4,
+    "cpt_name": "Subacromial Decompression"
+  },
+  {
+    "cpt_id": 2802,
+    "cpt_name": "Subcutaneous Defibrillator Insertion, Percutaneous"
+  },
+  {
+    "cpt_id": 74,
+    "cpt_name": "Synovectomy And Debridement"
+  },
+  {
+    "cpt_id": 65,
+    "cpt_name": "Tarsal Tunnel Release"
+  },
+  {
+    "cpt_id": 2696,
+    "cpt_name": "Temporal Artery Biopsy"
+  },
+  {
+    "cpt_id": 46,
+    "cpt_name": "Tendon Sheath Incision"
+  },
+  {
+    "cpt_id": 77,
+    "cpt_name": "Tenolysis"
+  },
+  {
+    "cpt_id": 134,
+    "cpt_name": "Tenotomy"
+  },
+  {
+    "cpt_id": 2664,
+    "cpt_name": "Three Artery PTCA with Stents"
+  },
+  {
+    "cpt_id": 2771,
+    "cpt_name": "Thyroglossal Duct Cyst or Sinus Excision"
+  },
+  {
+    "cpt_id": 2605,
+    "cpt_name": "Thyroidectomy, Open Approach"
+  },
+  {
+    "cpt_id": 2762,
+    "cpt_name": "Tonsillectomy and/or Adenoidectomy"
+  },
+  {
+    "cpt_id": 21,
+    "cpt_name": "Total Ankle Arthroplasty"
+  },
+  {
+    "cpt_id": 9,
+    "cpt_name": "Total Elbow Arthroplasty"
+  },
+  {
+    "cpt_id": 189,
+    "cpt_name": "Total Hip Joint Replacement"
+  },
+  {
+    "cpt_id": 186,
+    "cpt_name": "Total Knee Joint Replacement"
+  },
+  {
+    "cpt_id": 2701,
+    "cpt_name": "Transcarotid Arterial Revascularization"
+  },
+  {
+    "cpt_id": 2766,
+    "cpt_name": "Treatment for Nasal Fracture "
+  },
+  {
+    "cpt_id": 2674,
+    "cpt_name": "Treatment of Ectopic Pregnancy, Laparoscopic"
+  },
+  {
+    "cpt_id": 103,
+    "cpt_name": "Trimalleolar Ankle Fracture"
+  },
+  {
+    "cpt_id": 2662,
+    "cpt_name": "Two Artery PTCA with Stents"
+  },
+  {
+    "cpt_id": 2661,
+    "cpt_name": "Two Artery PTCA without Stents"
+  },
+  {
+    "cpt_id": 2773,
+    "cpt_name": "Tympanoplasty with Mastoidectomy"
+  },
+  {
+    "cpt_id": 2767,
+    "cpt_name": "Tympanoplasty without Mastoidectomy"
+  },
+  {
+    "cpt_id": 2764,
+    "cpt_name": "Tympanostomy"
+  },
+  {
+    "cpt_id": 75,
+    "cpt_name": "Ulnar Nerve Transposition At Cubital Tunnel"
+  },
+  {
+    "cpt_id": 2592,
+    "cpt_name": "Unicompartmental Knee Joint Replacement"
+  },
+  {
+    "cpt_id": 2757,
+    "cpt_name": "Urethroplasty, One-Stage"
+  },
+  {
+    "cpt_id": 2756,
+    "cpt_name": "Urethroplasty, Two-Stage"
+  },
+  {
+    "cpt_id": 2724,
+    "cpt_name": "Vascular Diagnostic Imaging"
+  },
+  {
+    "cpt_id": 2711,
+    "cpt_name": "Vascular Embolectomy/Thrombectomy"
+  },
+  {
+    "cpt_id": 2710,
+    "cpt_name": "Vascular Embolization/Occlusion"
+  },
+  {
+    "cpt_id": 2748,
+    "cpt_name": "Vasectomy"
+  },
+  {
+    "cpt_id": 2585,
+    "cpt_name": "Vertebroplasty/Kyphoplasty"
+  },
+  {
+    "cpt_id": 2680,
+    "cpt_name": "Vulvectomy"
+  },
+  {
+    "cpt_id": 125,
+    "cpt_name": "Wrist Arthrodesis"
+  }
+]

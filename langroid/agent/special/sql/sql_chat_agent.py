@@ -57,6 +57,12 @@ Also if you receive a null or other unexpected result,
 in your query, because you did not know that the possible genders in the table
 are "Male" and "Female". 
 
+You have to use display_group_id, ict_id or drg_id when querying on procedures, 
+surgeon_id when querying surgeons and department_id when querying departments.
+However you do not have access to this information. 
+You can ask me questions about the missing information, ONE AT A TIME, I will answer each 
+question.
+
 Start by asking what I would like to know about the data.
 
 """
